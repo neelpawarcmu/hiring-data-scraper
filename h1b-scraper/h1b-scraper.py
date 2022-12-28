@@ -1,6 +1,6 @@
 # Import libraries
 import pandas as pd
-from config import urls, companiesToExclude
+from config import urls, companiesToExclude, grouping
 import gspread
 from df2gspread import df2gspread as d2g
 from oauth2client.service_account import ServiceAccountCredentials
@@ -14,14 +14,12 @@ class Scraper:
     def scrape(self):
         self.generateDfFromURLs()
         self.processDf()
-        self.groupEmployers()
-        print(self.df)
 
     def generateDfFromURLs(self):
         '''
         generate and store df from urls
         '''
-        dfs = [pd.read_html(url)[0] for url in self.urls]
+        dfs = [pd.read_html(url)[0] for url in self.urls if url]
         self.df = pd.concat(dfs)
 
     def changeDfDtypes(self):
@@ -36,7 +34,6 @@ class Scraper:
         self.df[numeric_cols] = self.df[numeric_cols
             ].apply(pd.to_numeric, errors='coerce', axis=1
             ).astype(int, errors='ignore')
-        print(self.df.dtypes)
 
     def cleanDf(self):
         '''
@@ -53,17 +50,22 @@ class Scraper:
         # https://stackoverflow.com/questions/54833419/python-df2gspread-library-can-not-save-a-df-to-google-sheet
         self.df.reset_index(inplace=True)
 
-    def groupEmployers(self, grouping='avg'):
+    def groupEmployers(self, grouping):
         '''
-        group as multiindex or by employer average salary
+        group as one of teh foll: repeated, multiindex or by employer average salary
         '''
         # order by salary
-        if grouping == 'avg':
-            self.df.groupby()
-            self.df.sort_values(['BASE SALARY', 'EMPLOYER'], ascending=[False, True], inplace=True)
-        # make multiindex
-        # self.df.set_index([self.df['EMPLOYER'], self.df['BASE SALARY']], inplace=True)
-        # self.df.sort_index(level=0, inplace=True)
+        # condense employer names to single indices
+        self.df.set_index([self.df['EMPLOYER'], self.df['BASE SALARY']], inplace=True)
+        self.df.sort_index(level=1, inplace=True, ascending=False)
+        self.df.drop(columns=['EMPLOYER', 'BASE SALARY'], inplace=True)
+        if grouping == 'repeat':
+            self.df.reset_index(inplace=True)
+        elif grouping == 'first':
+            self.df.reset_index(inplace=True)
+            self.df = self.df.groupby('EMPLOYER', sort=False, ).agg('first').reset_index()
+        elif grouping == 'multiidx':
+            return
 
     def processDf(self, order='BASE SALARY'):
         '''
@@ -74,7 +76,9 @@ class Scraper:
 
         # clean df nans and blacklisted companies
         self.cleanDf()
-
+        
+        # group employers
+        self.groupEmployers(grouping=grouping)
 
     def pushDfToSheets(self):
         '''

@@ -10,5 +10,7 @@ To run this, follow the following
 1. `conda install pip`
 1. change active directory to cloned repo using `cd hiring-data-scraper`
 1. install requirements using `pip install -r requirements.txt`
-1. follow [this tutorial]('https://docs.gspread.org/en/latest/oauth2.html') to get a json file, rename it to `google-sheet-key.json` and add it to the `h1b-scraper` directory
+1. follow [this tutorial]('https://docs.gspread.org/en/latest/oauth2.html') to get a json file, rename it to `google-sheet-key.json` and add it to the `hiring-data-scraper` directory
+1. change the `spreadsheet_key` and `wks_name` in `h1b-scraper.py -> Scraper -> pushDfToSheets`
+1. make desired changes to `config-urls.txt` and `config.py` 
 1. run `python h1b-scraper/h1b-scraper.py`
