@@ -3,6 +3,7 @@ import pandas as pd
 from config import urls, companiesToExclude
 import gspread
 import df2gspread as d2g
+from oauth2client.service_account import ServiceAccountCredentials
 
 
 class Scraper:
@@ -63,6 +64,14 @@ class Scraper:
         self.df.set_index([self.df['EMPLOYER'], self.df['BASE SALARY']], inplace=True)
         self.df.sort_index(level=0, inplace=True)
 
+    def pushDfToSheets(self):
+        scope = ['https://spreadsheets.google.com/feeds',
+         'https://www.googleapis.com/auth/drive']
+        credentials = ServiceAccountCredentials.from_json_keyfile_name(
+            'jsonFileFromGoogle.json', scope)
+        gc = gspread.authorize(credentials)
+
 if __name__ == "__main__":
     scraper = Scraper(urls)
     scraper.scrape()
+    
