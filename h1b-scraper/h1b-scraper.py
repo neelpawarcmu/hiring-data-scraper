@@ -92,7 +92,7 @@ class Scraper:
             'google-sheet-key.json', scope)
         gc = gspread.authorize(credentials)
         spreadsheet_key = '1KlgBLVdq0ZcpM5jol6sCQBR6dM1Nh0ZB23rYfJzkcdM'
-        wks_name = 'Sheet1'
+        wks_name = 'h1b-data'
         d2g.upload(self.df, spreadsheet_key, wks_name, credentials=credentials, row_names=False)
 
 if __name__ == "__main__":
