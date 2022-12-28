@@ -1,4 +1,8 @@
-urls = open('h1b-scraper/config-urls.txt', 'r').read().splitlines() 
+urls = ['https://h1bdata.info/index.php?em=&job='+'+'.join(role.lower().split())+'&city=&year=all+years'
+    for role in 
+    open('h1b-scraper/config-role-names.txt', 'r').read().splitlines()
+    if role
+]
 
 companiesToExclude = [
     "APPLE INC",
