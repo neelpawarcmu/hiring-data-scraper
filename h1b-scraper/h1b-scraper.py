@@ -2,7 +2,7 @@
 import pandas as pd
 from config import urls, companiesToExclude
 import gspread
-import df2gspread as d2g
+from df2gspread import df2gspread as d2g
 from oauth2client.service_account import ServiceAccountCredentials
 
 
@@ -14,6 +14,7 @@ class Scraper:
     def scrape(self):
         self.generateDfFromURLs()
         self.processDf()
+        self.groupEmployers()
         print(self.df)
 
     def generateDfFromURLs(self):
@@ -32,9 +33,10 @@ class Scraper:
             'date_cols': []
         }
         numeric_cols = dtypes['numeric_cols']
-        self.df[numeric_cols] = self.df[
-            numeric_cols
-        ].apply(pd.to_numeric, errors='coerce', axis=1)
+        self.df[numeric_cols] = self.df[numeric_cols
+            ].apply(pd.to_numeric, errors='coerce', axis=1
+            ).astype(int, errors='ignore')
+        print(self.df.dtypes)
 
     def cleanDf(self):
         '''
@@ -47,6 +49,21 @@ class Scraper:
         self.df.dropna(axis=0, inplace=True)
         # remove blacklisted companies 
         self.df.drop(self.df[self.df.EMPLOYER.isin(companiesToExclude)].index, inplace=True)
+        # reset index to avoid d2g problems: see stack overflow
+        # https://stackoverflow.com/questions/54833419/python-df2gspread-library-can-not-save-a-df-to-google-sheet
+        self.df.reset_index(inplace=True)
+
+    def groupEmployers(self, grouping='avg'):
+        '''
+        group as multiindex or by employer average salary
+        '''
+        # order by salary
+        if grouping == 'avg':
+            self.df.groupby()
+            self.df.sort_values(['BASE SALARY', 'EMPLOYER'], ascending=[False, True], inplace=True)
+        # make multiindex
+        # self.df.set_index([self.df['EMPLOYER'], self.df['BASE SALARY']], inplace=True)
+        # self.df.sort_index(level=0, inplace=True)
 
     def processDf(self, order='BASE SALARY'):
         '''
@@ -57,21 +74,25 @@ class Scraper:
 
         # clean df nans and blacklisted companies
         self.cleanDf()
-        
-        # change dtypes
-        # group by company and order by salary
-        self.df.sort_values('BASE SALARY', ascending=False, inplace=True)
-        self.df.set_index([self.df['EMPLOYER'], self.df['BASE SALARY']], inplace=True)
-        self.df.sort_index(level=0, inplace=True)
+
 
     def pushDfToSheets(self):
+        '''
+        follows this tutorial: 
+        https://towardsdatascience.com/using-python-to-push-your-pandas-dataframe-to-google-sheets-de69422508f
+        corrects some of the bugs in the tutorial using stackoverflow
+        '''
         scope = ['https://spreadsheets.google.com/feeds',
-         'https://www.googleapis.com/auth/drive']
+                 'https://www.googleapis.com/auth/drive']
         credentials = ServiceAccountCredentials.from_json_keyfile_name(
-            'jsonFileFromGoogle.json', scope)
+            'google-sheet-key.json', scope)
         gc = gspread.authorize(credentials)
+        spreadsheet_key = '1KlgBLVdq0ZcpM5jol6sCQBR6dM1Nh0ZB23rYfJzkcdM'
+        wks_name = 'Sheet1'
+        d2g.upload(self.df, spreadsheet_key, wks_name, credentials=credentials, row_names=False)
 
 if __name__ == "__main__":
     scraper = Scraper(urls)
     scraper.scrape()
+    scraper.pushDfToSheets()
     
