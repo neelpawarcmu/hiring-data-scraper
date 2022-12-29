@@ -130,3 +130,4 @@ dmypy.json
 
 # user defined files
 google-sheet-key.json
+chromedriver

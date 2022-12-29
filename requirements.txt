@@ -5,3 +5,9 @@ lxml
 gspread
 df2gspread
 oauth2client
+
+boto3
+selenium
+webdriver_manager
+sendgrid
+twilio
