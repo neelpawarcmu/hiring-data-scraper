@@ -1,8 +1,8 @@
-urls = ['https://h1bdata.info/index.php?em=&job='+'+'.join(role.lower().split())+'&city=&year=all+years'
-    for role in 
-    open('h1b-scraper/config-role-names.txt', 'r').read().splitlines()
-    if role
-]
+roles = [
+    role for role in open(
+        'h1b-scraper/config-role-names.txt', 'r').read().splitlines() 
+        if role
+    ]
 
 companiesToExclude = [
     "APPLE INC",
@@ -16,4 +16,4 @@ companiesToExclude = [
     "DOORDASH INC",
 ]
 
-grouping = 'first'
+grouping_type = 'repeat'

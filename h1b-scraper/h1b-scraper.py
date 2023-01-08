@@ -1,30 +1,43 @@
 # Import libraries
 import pandas as pd
-from config import urls, companiesToExclude, grouping
-import gspread
-from df2gspread import df2gspread as d2g
-from oauth2client.service_account import ServiceAccountCredentials
+from config import roles, companiesToExclude, grouping_type
+import sys
+sys.path.append('utils')
+from utils import DataProcessor
+from tqdm import tqdm
 
 
-class Scraper:
-    def __init__(self, urls) -> None:
+class H1bScraper:
+    def __init__(self, roles) -> None:
         # Create an URL object
-        self.urls = urls
+        self.roles = roles
+        self.generateUrlsFromRoleNames()
     
+    def generateUrlsFromRoleNames(self):
+        self.urls = [
+            'https://h1bdata.info/index.php?em=&job='+'+'.join(
+                role.lower().split())+'&city=&year=all+years' 
+            for role in self.roles
+        ]
+
     def scrape(self):
         self.generateDfFromURLs()
-        self.processDf()
 
     def generateDfFromURLs(self):
         '''
         generate and store df from urls
         '''
-        dfs = [pd.read_html(url)[0] for url in self.urls if url]
+        progress_bar = tqdm(self.urls, position=0, leave=True)
+        dfs = [pd.read_html(url)[0] for url in progress_bar if url]
         self.df = pd.concat(dfs)
+
+class Processor(DataProcessor):
+    def __init__(self, df):
+        super().__init__(df)
 
     def changeDfDtypes(self):
         '''
-        change dtypes by mapping
+        change dtypes using a mapping for col names
         '''
         dtypes = {
             'numeric_cols': ['BASE SALARY'],
@@ -35,7 +48,7 @@ class Scraper:
             ].apply(pd.to_numeric, errors='coerce', axis=1
             ).astype(int, errors='ignore')
 
-    def cleanDf(self):
+    def cleanDf(self, ref_col):
         '''
         drop extra columns and nan rows
         drop blacklisted companies
@@ -45,29 +58,9 @@ class Scraper:
         # drop nan rows
         self.df.dropna(axis=0, inplace=True)
         # remove blacklisted companies 
-        self.df.drop(self.df[self.df.EMPLOYER.isin(companiesToExclude)].index, inplace=True)
-        # reset index to avoid d2g problems: see stack overflow
-        # https://stackoverflow.com/questions/54833419/python-df2gspread-library-can-not-save-a-df-to-google-sheet
-        self.df.reset_index(inplace=True)
+        self.df.drop(self.df[self.df[ref_col].isin(companiesToExclude)].index, inplace=True)
 
-    def groupEmployers(self, grouping):
-        '''
-        group as one of teh foll: repeated, multiindex or by employer average salary
-        '''
-        # order by salary
-        # condense employer names to single indices
-        self.df.set_index([self.df['EMPLOYER'], self.df['BASE SALARY']], inplace=True)
-        self.df.sort_index(level=1, inplace=True, ascending=False)
-        self.df.drop(columns=['EMPLOYER', 'BASE SALARY'], inplace=True)
-        if grouping == 'repeat':
-            self.df.reset_index(inplace=True)
-        elif grouping == 'first':
-            self.df.reset_index(inplace=True)
-            self.df = self.df.groupby('EMPLOYER', sort=False, ).agg('first').reset_index()
-        elif grouping == 'multiidx':
-            return
-
-    def processDf(self, order='BASE SALARY'):
+    def processDf(self, group_col='EMPLOYER', order_col='BASE SALARY'):
         '''
         filter out and sort results
         '''
@@ -75,28 +68,23 @@ class Scraper:
         self.changeDfDtypes()
 
         # clean df nans and blacklisted companies
-        self.cleanDf()
-        
-        # group employers
-        self.groupEmployers(grouping=grouping)
+        self.cleanDf(ref_col='EMPLOYER')
 
-    def pushDfToSheets(self):
-        '''
-        follows this tutorial: 
-        https://towardsdatascience.com/using-python-to-push-your-pandas-dataframe-to-google-sheets-de69422508f
-        corrects some of the bugs in the tutorial using stackoverflow
-        '''
-        scope = ['https://spreadsheets.google.com/feeds',
-                 'https://www.googleapis.com/auth/drive']
-        credentials = ServiceAccountCredentials.from_json_keyfile_name(
-            'google-sheet-key.json', scope)
-        gc = gspread.authorize(credentials)
-        spreadsheet_key = '1KlgBLVdq0ZcpM5jol6sCQBR6dM1Nh0ZB23rYfJzkcdM'
-        wks_name = 'h1b-data'
-        d2g.upload(self.df, spreadsheet_key, wks_name, credentials=credentials, row_names=False)
+        # group employers
+        self.groupRows(grouping_type=grouping_type, group_col=group_col, order_col=order_col)
+
 
 if __name__ == "__main__":
-    scraper = Scraper(urls)
+    scraper = H1bScraper(roles)
     scraper.scrape()
-    scraper.pushDfToSheets()
+
+    procsr = Processor(scraper.df)
+    procsr.processDf()
+
+    procsr.pushDfToSheets(
+        spreadsheet_key = '1KlgBLVdq0ZcpM5jol6sCQBR6dM1Nh0ZB23rYfJzkcdM',
+        wks_name = 'h1b-data',
+    )
+
+    
     
