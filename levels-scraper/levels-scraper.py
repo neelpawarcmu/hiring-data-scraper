@@ -159,13 +159,15 @@ class Processor(DataProcessor):
                     ).apply(lambda val : eval(val))
             self.df[col] = series
 
-    def processData(self, grouping_type, group_col, order_col):
+    def processData(self):
         # expand delimited columns
         self.separateDelimitedColumns()
         # remove invalid rows from ads
         self.cleanData()
-        print(self.df)
-        self.groupRows(grouping_type=grouping_type, group_col=group_col, order_col=order_col)
+        # change dtypes 
+        self.changeDfDtypes()
+
+
 
     def separateDelimitedColumns(self):
         '''
@@ -231,7 +233,10 @@ if __name__ == '__main__':
 
     # process df
     procsr = Processor(scraper.df, scraper.delimiter)
-    procsr.processData(grouping_type=grouping_type, group_col='Company', order_col='Base')
+    procsr.processData()
+
+    # group data
+    procsr.groupRows(grouping_type=grouping_type, group_col='Company', order_col='Base')
     
     # save as csv if desired
     procsr.saveDf(save_path='levels-scraper/levels_data.csv')
