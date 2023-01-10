@@ -1,4 +1,3 @@
-from datetime import datetime, timedelta
 from selenium import webdriver
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
@@ -9,15 +8,16 @@ from tqdm import tqdm
 import sys
 sys.path.append('utils')
 from utils import DataProcessor
-from config import grouping_type, base_url
+from config import grouping_type, base_urls, wks_names
 import numpy as np
+import dateparser
 
 
 class LevelsScraper:
     def __init__(self, base_url):
-        """
+        '''
         Initialize job list, Selenium Chrome Driver, BeautifulSoup, and DynamoDB objects
-        """
+        '''
         self.BASE_URL = base_url
 
         # Initialize main objects
@@ -29,11 +29,11 @@ class LevelsScraper:
 
 
     def initializeWebsite(self):
-        """
+        '''
         Go to website and close all popups / blurs
         Return the page source for pandas to parse
         :return:
-        """
+        '''
         # Navigate to the link
         self.driver.get(self.BASE_URL)
 
@@ -54,9 +54,9 @@ class LevelsScraper:
         self.num_pages = self.getNumPages()
     
     def exitBlur(self):
-        """
+        '''
         exit blur on site entry
-        """
+        '''
         try:
             exit_button = self.driver.find_element(
                 by="xpath", 
@@ -72,19 +72,19 @@ class LevelsScraper:
             tqdm.write('blur not found')
 
     def getNumPages(self):
-        # num_pages = int(self.driver.find_element(by="xpath",
-        #     value = '/html/body/div[1]/div/div[2]/div[2]/div[2]/div[2]/table/tfoot/tr/td/div/div[1]',
-        # ).text.split('of')[-1].strip().replace(',', '')) // 50
-        num_pages = 1
+        num_pages = int(self.driver.find_element(by="xpath",
+            value = '/html/body/div[1]/div/div[2]/div[2]/div[2]/div[2]/table/tfoot/tr/td/div/div[1]',
+        ).text.split('of')[-1].strip().replace(',', '')) // 50
+        # num_pages = 1 # used while debugging
         tqdm.write('-'*40)
         tqdm.write(f'num pages to scrape = {num_pages}')
         return num_pages   
 
     def cleanPageSource(self):
-        """
+        '''
         clean formatting from multi-info cells in table
         return: str (cannot edit page_source inplace)
-        """
+        '''
         self.delimiter = '|'
 
         cleaned_page_source = (self.driver.page_source
@@ -148,6 +148,7 @@ class Processor(DataProcessor):
         '''
         change data types, especially for monetary columns
         '''
+        # format monetary columns
         monetary_cols = ['Total Compensation (USD)', 'Base', 'Stock (yr)', 'Bonus']
         for col in monetary_cols:
             series = self.df[col]
@@ -159,14 +160,17 @@ class Processor(DataProcessor):
                     ).apply(lambda val : eval(val))
             self.df[col] = series
 
+        # # format datetime columns
+        # series = self.df['Date'].apply(
+        #     lambda x: dateparser.parse(x).strftime("%m/%d/%Y")
+        # ) # parse `time ago` values to `mm/dd/yyyy`
+        # self.df['Date'] = pd.to_datetime(series)
+
     def processData(self):
         # expand delimited columns
         self.separateDelimitedColumns()
         # remove invalid rows from ads
         self.cleanData()
-        # change dtypes 
-        self.changeDfDtypes()
-
 
 
     def separateDelimitedColumns(self):
@@ -205,9 +209,8 @@ class Processor(DataProcessor):
         # aggregate into single df
         self.df = pd.concat(new_df, axis=1)
         
-        # fill nans generated in Negotiated column
-        self.df['Negotiated'].fillna(0, inplace=True)
-        print(self.df.isna().sum())
+        # optionally fill blanks generated in Negotiated column
+        self.df.replace('', '0', inplace=True)
         
 
     def cleanData(self):
@@ -222,10 +225,13 @@ class Processor(DataProcessor):
             ) | first_col.str.contains('your money back'
             ) | first_col.str.contains('Level up with'
             ) | first_col.str.contains('Review your resume'
+            ) | first_col.str.contains('No salaries'
             ))
         ]
+        print(self.df.isna().sum())
+        # self.df.dropna(axis)
 
-if __name__ == '__main__':
+def main(base_url, wks_name):
     # scrape data and create df
     scraper = LevelsScraper(base_url)
     scraper.scrapePages()
@@ -235,8 +241,8 @@ if __name__ == '__main__':
     procsr = Processor(scraper.df, scraper.delimiter)
     procsr.processData()
 
-    # group data
-    procsr.groupRows(grouping_type=grouping_type, group_col='Company', order_col='Base')
+    # group data (order is already maintained by levels.fyi)
+    procsr.groupRows(grouping_type=grouping_type, group_col='Company', order_col=None)
     
     # save as csv if desired
     procsr.saveDf(save_path='levels-scraper/levels_data.csv')
@@ -244,5 +250,9 @@ if __name__ == '__main__':
     # push to Google Sheets
     procsr.pushDfToSheets(
         spreadsheet_key = '1KlgBLVdq0ZcpM5jol6sCQBR6dM1Nh0ZB23rYfJzkcdM',
-        wks_name = 'levels-ml',
+        wks_name = wks_name,
     )
+
+if __name__ == '__main__':
+    for base_url, wks_name in zip(base_urls, wks_names):
+        main(base_url, wks_name)

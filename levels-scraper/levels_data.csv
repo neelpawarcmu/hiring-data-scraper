@@ -1,50 +1,869 @@
-Company	Base	Location	Date	Level Name	Tag	Years of Experience	Total / At Company	Negotiated	Total Compensation (USD)	Stock (yr)	Bonus
-ByteDance	326000.0	Mountain View, CA 	 12/31/2022	3-2	ML / AI	11 yrs 	3 yrs		866000	460000.0	80000.0
-Google	290000.0	Mountain View, CA 	 a day ago	L7	ML / AI	18 yrs 	11 yrs		605000	250000.0	65000.0
-TransPerfect	260000.0	Los Angeles, CA 	 3 days ago	-	ML / AI	16 yrs 	2 yrs		260000	0.0	0.0
-IBM	250000.0	Yorktown Heights, NY 	 4 days ago	Senior Engineer	ML / AI	10 yrs 	7 yrs		320000	70000.0	0.0
-Gridspace	240000.0	Los Angeles, CA 	 12/31/2022	L4	ML / AI	5-10 yrs 	5-10 yrs		240000	0.0	0.0
-Goldman Sachs	235000.0	New York, NY 	 3 days ago	Analyst	ML / AI	1 yr 	1 yr		255000	0.0	20000.0
-Amazon	230000.0	Palo Alto, CA 	 13 hours ago	SDE III	ML / AI	15 yrs 	3 yrs		430000	200000.0	0.0
-Warner Bros. Disc...	225000.0	New York, NY 	 4 days ago	SE III	ML / AI	9 yrs 	1 yr		370000	118000.0	27000.0
-Amazon	210000.0	Seattle, WA 	 4 days ago	SDE III	ML / AI	4 yrs 	3 yrs		430000	220000.0	0.0
-Amazon	206000.0	Sunnyvale, CA 	 8 hours ago	SDE II	ML / AI	10 yrs 	0 yrs		461650	5000.0	250700.0
-Facebook	205000.0	Menlo Park, CA 	 3 days ago	E5	ML / AI	5 yrs 	3 yrs		505000	270000.0	30000.0
-Facebook	204000.0	Seattle, WA 	 5 days ago	E5	ML / AI	6 yrs 	2 yrs		249000	45000.0	0.0
-Block	202000.0	San Francisco, CA 	 6 days ago	L6	ML / AI	8 yrs 	2 yrs		322000	120000.0	0.0
-Twitter	200000.0	Boston, MA 	 5 days ago	Senior SWE	ML / AI	6 yrs 	1 yr		350000	150000.0	0.0
-Synopsys	200000.0	Mountain View, CA 	 5 days ago	69	ML / AI	17 yrs 	5 yrs		240000	40000.0	0.0
-Peloton	200000.0	New York, NY 	 3 days ago	L6	ML / AI	15 yrs 	4 yrs		240000	40000.0	0.0
-Google	200000.0	Mountain View, CA 	 01/01/2023	L5	ML / AI	5 yrs 	5 yrs		330000	100000.0	30000.0
-Google	200000.0	Seattle, WA 	 4 days ago	L5	ML / AI	5 yrs 	3 yrs		300000	100000.0	0.0
-Google	200000.0	Mountain View, CA 	 3 days ago	L4	ML / AI	3 yrs 	0 yrs		355000	125000.0	30000.0
-Facebook	200000.0	Menlo Park, CA 	 5 days ago	E5	ML / AI	7 yrs 	3 yrs		280000	80000.0	0.0
-Facebook	200000.0	Menlo Park, CA 	 4 days ago	E5	ML / AI	4 yrs 	4 yrs		250000	50000.0	0.0
-IBM Watson Orders	199500.0	Mountain View, CA 	 3 days ago	Senior Engineer	ML / AI	7 yrs 	3 yrs		229500	0.0	30000.0
-Google	198000.0	San Francisco, CA 	 a day ago	L5	ML / AI	5 yrs 	5 yrs		318000	120000.0	0.0
-Facebook	196000.0	Seattle, WA 	 5 days ago	E5	ML / AI	5 yrs 	5 yrs		291000	95000.0	0.0
-ZEKU	190000.0	San Diego, CA 	 4 days ago	L5	ML / AI	12 yrs 	0 yrs		255000	31300.0	33800.0
-Nvidia	190000.0	San Francisco, CA 	 12/31/2022	IC3	ML / AI	2 yrs 	2 yrs		285000	95000.0	0.0
-Facebook	170000.0	New York, NY 	 2 days ago	E4	ML / AI	1 yr 	1 yr		267000	80000.0	17000.0
-Amazon	167000.0	New York, NY 	 6 days ago	SDE II	ML / AI	2 yrs 	2 yrs		263000	96000.0	0.0
-Peloton	165000.0	New York, NY 	 10 hours ago	L4	ML / AI	2 yrs 	1 yr		227500	62500.0	0.0
-Amazon	165000.0	San Francisco, CA 	 3 days ago	SDE I	ML / AI	3 yrs 	1 yr		200000	35000.0	0.0
-HPE	164000.0	San Jose, CA 	 3 days ago	Master	ML / AI	10 yrs 	6 yrs		204000	20000.0	20000.0
-Visa	160000.0	Palo Alto, CA 	 12/30/2022	Software Engineer	ML / AI	3 yrs 	3 yrs		178000	18000.0	0.0
-Amazon	160000.0	Seattle, WA 	 12/31/2022	SDE II	ML / AI	4 yrs 	2 yrs		260000	100000.0	0.0
-Amazon	155000.0	Bellevue, WA 	 01/01/2023	SDE II	ML / AI	4 yrs 	1 yr		305000	80000.0	70000.0
-Capital One	152000.0	Dallas, TX 	 6 days ago	Senior Software Eng	ML / AI	6 yrs 	5 yrs		160000	0.0	8000.0
-Capital One	150000.0	Washington, DC 	 21 hours ago	Lead Software Eng	ML / AI	5 yrs 	0 yrs		150000	0.0	0.0
-Comcast	145000.0	Denver, CO 	 3 days ago	Senior Engineer	ML / AI	7 yrs 	2 yrs		167000	10000.0	12000.0
-Quansight	135000.0	Salt Lake City, UT 	 2 days ago	L5	ML / AI	10 yrs 	1 yr		165000	0.0	30000.0
-DEKA	130000.0	Manchester, NH 	 2 days ago	-	ML / AI	15 yrs 	1 yr		130000	0.0	0.0
-Canopy Vehicle Se...	130000.0	Buffalo, NY 	 12/31/2022	-	ML / AI	2 yrs 	0 yrs	+$10K	143000	0.0	13000.0
-Alarm.com	125000.0	Washington, DC 	 5 days ago	Associate Research Scientist	ML / AI	0 yrs 	0 yrs	+$25K	125000	0.0	0.0
-Lockheed Martin	121500.0	Denver, CO 	 5 days ago	E3	ML / AI	9 yrs 	9 yrs		124500	0.0	3000.0
-Google	120900.0	New York, NY 	 4 hours ago	L3	ML / AI	3 yrs 	2 yrs		169302	48400.0	0.0
-Google	120000.0	New York, NY 	 7 days ago	L1	ML / AI	1 yr 	1 yr		230000	110000.0	0.0
-Google	119300.0	New York, NY 	 2 days ago	L1	ML / AI	1 yr 	0 yrs		167039	47700.0	0.0
-Corvus Insurance	115000.0	San Antonio, TX 	 a day ago	L1	ML / AI	1 yr 	0 yrs		115000	0.0	0.0
-Toptal	100000.0	New York, NY 	 21 hours ago	L3	ML / AI	4 yrs 	1 yr		100000	0.0	0.0
-Goldman Sachs	86000.0	New York, NY 	 3 days ago	Associate	ML / AI	0 yrs 	0 yrs		86000	0.0	0.0
-JPMorgan Chase	85000.0	Columbus, OH 	 5 days ago	Analyst	ML / AI	1 yr 	1 yr		85000	0.0	0.0
+Company	Location	Date	Level Name	Tag	Years of Experience	Total / At Company	Negotiated	Total Compensation (USD)	Base	Stock (yr)	Bonus
+Facebook	New York, NY 	 2 hours ago	E3	ML / AI	1 yr 	1 yr	0	$174,000	124K 	 N/A 	 50K
+	New York, NY 	 3 days ago	E4	ML / AI	1 yr 	1 yr	0	$267,000	170K 	 80K 	 17K
+	New York, NY 	 12/29/2022	E3	ML / AI	0 yrs 	0 yrs	0	$198,999	130K 	 40K 	 29K
+	Pittsburgh, PA 	 12/16/2022	E4	ML / AI	1 yr 	1 yr	0	$205,000	125K 	 80K 	 N/A
+	Menlo Park, CA 	 12/03/2022	E5	ML / AI	2 yrs 	2 yrs	0	$280,000	200K 	 50K 	 30K
+	New York, NY 	 12/01/2022	E4	ML / AI	2 yrs 	2 yrs	0	$245,150	164.1K 	 56.5K 	 24.6K
+	Los Angeles, CA 	 11/30/2022	L2	ML / AI	2-4 yrs 	0-1 yrs	0	$200,000	170K 	 30K 	 N/A
+	San Francisco, CA 	 11/18/2022	E4	ML / AI	1 yr 	1 yr	0	$245,000	165K 	 80K 	 N/A
+	Menlo Park, CA 	 11/15/2022	E4	ML / AI	2 yrs 	2 yrs	0	$210,000	170K 	 40K 	 N/A
+	Seattle, WA 	 11/15/2022	E4	ML / AI	1 yr 	1 yr	0	$220,000	160K 	 60K 	 N/A
+	Seattle, WA 	 11/12/2022	E4	ML / AI	0 yrs 	0 yrs	0	$240,000	160K 	 80K 	 N/A
+	Menlo Park, CA 	 11/07/2022	E4	ML / AI	1 yr 	1 yr	0	$210,000	170K 	 40K 	 N/A
+	New York, NY 	 11/03/2022	E3	ML / AI	1 yr 	1 yr	0	$164,000	124K 	 40K 	 N/A
+	Sunnyvale, CA 	 11/02/2022	E4	ML / AI	2 yrs 	2 yrs	0	$226,000	168K 	 58K 	 N/A
+	Los Angeles, CA 	 09/14/2022	E3	ML / AI	2 yrs 	0 yrs	0	$175,000	150K 	 25K 	 N/A
+	New York, NY 	 09/12/2022	E4	ML / AI	2 yrs 	2 yrs	0	$276,000	170K 	 80K 	 26K
+	Menlo Park, CA 	 08/31/2022	E5	ML / AI	2 yrs 	2 yrs	0	$368,000	198K 	 150K 	 20K
+	Menlo Park, CA 	 08/22/2022	E4	ML / AI	0 yrs 	0 yrs	0	$331,250	175K 	 111.3K 	 45K
+	Menlo Park, CA 	 08/22/2022	E4	ML / AI	1 yr 	1 yr	0	$275,000	170K 	 80K 	 25K
+	Menlo Park, CA 	 08/12/2022	E4	ML / AI	1 yr 	1 yr	0	$250,000	170K 	 80K 	 N/A
+	Seattle, WA 	 08/05/2022	E4	ML / AI	1 yr 	1 yr	0	$270,000	160K 	 90K 	 20K
+	Menlo Park, CA 	 08/02/2022	E3	ML / AI	0 yrs 	0 yrs	0	$238,000	118K 	 40K 	 80K
+	New York, NY 	 07/31/2022	E3	ML / AI	0 yrs 	0 yrs	0	$132,750	124K 	 N/A 	 8.8K
+	Menlo Park, CA 	 07/20/2022	E3	ML / AI	2 yrs 	2 yrs	0	$175,000	135K 	 40K 	 N/A
+	Menlo Park, CA 	 07/19/2022	E4	ML / AI	2 yrs 	2 yrs	0	$253,300	168.3K 	 60K 	 25K
+	New York, NY 	 07/01/2022	E4	ML / AI	0 yrs 	0 yrs	0	$190,125	168K 	 22.1K 	 N/A
+	Menlo Park, CA 	 07/01/2022	E4	ML / AI	0 yrs 	0 yrs	0	$355,700	168K 	 137.5K 	 50.2K
+	Boston, MA 	 07/01/2022	E4	ML / AI	2 yrs 	0 yrs	0	$343,750	175K 	 125K 	 17.5K
+	Menlo Park, CA 	 06/23/2022	E4	ML / AI	1 yr 	1 yr	0	$278,000	168K 	 80K 	 30K
+	Menlo Park, CA 	 06/01/2022	E3	ML / AI	0 yrs 	0 yrs	0	$230,550	138K 	 60K 	 32.6K
+	Seattle, WA 	 06/01/2022	E4	ML / AI	0 yrs 	0 yrs	0	$310,750	160K 	 104K 	 46.8K
+	Menlo Park, CA 	 06/01/2022	E3	ML / AI	0 yrs 	0 yrs	0	$166,500	129K 	 37.5K 	 N/A
+	San Francisco, CA 	 05/31/2022	E4	ML / AI	2 yrs 	0 yrs	0	$265,000	165K 	 75K 	 25K
+	New York, NY 	 05/31/2022	E3	ML / AI	0 yrs 	0 yrs	0	$233,000	118K 	 40K 	 75K
+	Burlingame, CA 	 05/01/2022	E4	ML / AI	0 yrs 	0 yrs	0	$260,350	159K 	 65K 	 36.4K
+	Menlo Park, CA 	 05/01/2022	E4	ML / AI	0 yrs 	0 yrs	0	$332,200	168K 	 112.5K 	 51.7K
+	Seattle, WA 	 04/30/2022	E4	ML / AI	2 yrs 	0 yrs	+$100K	$314,375	175K 	 91.3K 	 48.1K
+	Menlo Park, CA 	 04/27/2022	E4	ML / AI	2 yrs 	0 yrs	0	$324,100	184K 	 100K 	 40.1K
+	Charlotte, NC 	 04/23/2022	E4	ML / AI	2 yrs 	0 yrs	0	$270,450	158K 	 78.8K 	 33.7K
+	San Francisco, CA 	 04/22/2022	E3	ML / AI	1 yr 	1 yr	0	$175,300	123K 	 40K 	 12.3K
+	New York, NY 	 04/14/2022	E4	ML / AI	1 yr 	0 yrs	0	$367,850	184K 	 137.5K 	 46.4K
+	Baltimore, MD 	 04/13/2022	E4	ML / AI	2 yrs 	0 yrs	0	$313,000	170K 	 100K 	 43K
+	Menlo Park, CA 	 03/22/2022	E4	ML / AI	2 yrs 	2 yrs	0	$315,000	175K 	 115K 	 25K
+	New York, NY 	 03/09/2022	E4	ML / AI	2 yrs 	2 yrs	0	$273,000	168K 	 85K 	 20K
+	Menlo Park, CA 	 03/01/2022	E3	ML / AI	1 yr 	0 yrs	0	$174,000	124K 	 38K 	 12K
+	Menlo Park, CA 	 03/01/2022	E3	ML / AI	2 yrs 	0 yrs	0	$194,400	129K 	 37.5K 	 27.9K
+	Sunnyvale, CA 	 02/28/2022	E4	ML / AI	2 yrs 	2 yrs	0	$300,000	170K 	 130K 	 N/A
+	Menlo Park, CA 	 02/28/2022	E4	ML / AI	0 yrs 	0 yrs	0	$303,000	168K 	 88.8K 	 46.3K
+	Menlo Park, CA 	 02/25/2022	E4	ML / AI	1 yr 	1 yr	0	$223,000	159K 	 40K 	 24K
+	Cambridge, MA 	 02/16/2022	E4	ML / AI	2 yrs 	2 yrs	0	$227,000	170K 	 40K 	 17K
+	Menlo Park, CA 	 02/12/2022	E3	ML / AI	0 yrs 	0 yrs	0	$179,000	129K 	 40K 	 10K
+	Menlo Park, CA 	 02/01/2022	E3	ML / AI	0 yrs 	0 yrs	0	$220,025	129K 	 55K 	 36K
+	Los Angeles, CA 	 02/01/2022	E4	ML / AI	2 yrs 	0 yrs	0	$318,100	169K 	 105K 	 44.1K
+	Menlo Park, CA 	 01/31/2022	E4	ML / AI	0 yrs 	0 yrs	0	$340,500	170K 	 120K 	 50.5K
+	New York, NY 	 01/29/2022	E4	ML / AI	0 yrs 	0 yrs	0	$281,000	168K 	 88K 	 25K
+	Menlo Park, CA 	 01/26/2022	E4	ML / AI	0 yrs 	0 yrs	0	$268,000	168K 	 75K 	 25K
+	San Francisco, CA 	 01/25/2022	E3	ML / AI	0 yrs 	0 yrs	0	$197,000	129K 	 55K 	 13K
+	Burlingame, CA 	 01/11/2022	E3	ML / AI	1 yr 	1 yr	0	$200,000	120K 	 55K 	 25K
+	New York, NY 	 01/01/2022	E4	ML / AI	1 yr 	0 yrs	0	$250,500	168K 	 82.5K 	 N/A
+	Seattle, WA 	 12/31/2021	E4	ML / AI	2 yrs 	0 yrs	0	$318,750	175K 	 100K 	 43.8K
+	Menlo Park, CA 	 12/30/2021	E4	ML / AI	0 yrs 	0 yrs	0	$273,000	168K 	 88K 	 17K
+	Seattle, WA 	 12/28/2021	E4	ML / AI	2 yrs 	0 yrs	0	$244,000	154K 	 55K 	 35K
+	Seattle, WA 	 12/22/2021	E4	ML / AI	0 yrs 	0 yrs	0	$272,000	160K 	 96K 	 16K
+	Menlo Park, CA 	 12/21/2021	E3	ML / AI	0 yrs 	0 yrs	0	$197,000	129K 	 55K 	 13K
+	Menlo Park, CA 	 12/11/2021	E4	ML / AI	1 yr 	0 yrs	0	$270,000	168K 	 85K 	 17K
+	Menlo Park, CA 	 12/10/2021	E4	ML / AI	1 yr 	1 yr	0	$256,000	160K 	 80K 	 16K
+	New York, NY 	 12/06/2021	E4	ML / AI	2 yrs 	0 yrs	0	$270,000	165K 	 88K 	 17K
+	Menlo Park, CA 	 12/06/2021	E4	ML / AI	0 yrs 	0 yrs	0	$260,000	168K 	 75K 	 17K
+	New York, NY 	 12/03/2021	E3	ML / AI	0 yrs 	0 yrs	0	$180,000	129K 	 38K 	 13K
+	Seattle, WA 	 11/26/2021	E4	ML / AI	1 yr 	1 yr	0	$259,000	160K 	 83K 	 16K
+	Menlo Park, CA 	 11/11/2021	E3	ML / AI	1 yr 	0 yrs	0	$172,000	124K 	 38K 	 10K
+	Seattle, WA 	 11/11/2021	E3	ML / AI	0 yrs 	0 yrs	0	$168,000	118K 	 38K 	 12K
+	New York, NY 	 11/09/2021	E4	ML / AI	0 yrs 	0 yrs	0	$288,000	168K 	 100K 	 20K
+Aira Technology	Saratoga, CA 	 a day ago	-	ML / AI	2 yrs 	2 yrs	0	$160,000	150K 	 10K 	 N/A
+Peloton	New York, NY 	 2 days ago	L4	ML / AI	2 yrs 	1 yr	0	$227,500	165K 	 62.5K 	 N/A
+Corvus Insurance	San Antonio, TX 	 2 days ago	L1	ML / AI	1 yr 	0 yrs	0	$115,000	115K 	 N/A 	 N/A
+	Boston, MA 	 02/08/2022	L4	ML / AI	2 yrs 	1 yr	0	$113,000	110K 	 3K 	 N/A
+Google	New York, NY 	 4 days ago	L1	ML / AI	1 yr 	0 yrs	0	$167,039	119.3K 	 47.7K 	 N/A
+	New York, NY 	 01/01/2023	L1	ML / AI	1 yr 	1 yr	0	$230,000	120K 	 110K 	 N/A
+	Mountain View, CA 	 12/29/2022	L4	ML / AI	0 yrs 	0 yrs	0	$357,900	196K 	 132.5K 	 29.4K
+	San Francisco, CA 	 12/28/2022	L3	ML / AI	1 yr 	0 yrs	0	$215,000	175K 	 40K 	 N/A
+	Mountain View, CA 	 12/28/2022	L3	ML / AI	0 yrs 	0 yrs	0	$190,600	144K 	 25K 	 21.6K
+	New York, NY 	 12/27/2022	L3	ML / AI	1 yr 	0 yrs	0	$192,500	180K 	 12.5K 	 N/A
+	New York, NY 	 12/18/2022	L3	ML / AI	0 yrs 	0 yrs	0	$145,000	140K 	 5K 	 N/A
+	Los Angeles, CA 	 11/19/2022	L3	ML / AI	2 yrs 	0 yrs	0	$212,500	200K 	 12.5K 	 N/A
+	Los Angeles, CA 	 11/17/2022	L3	ML / AI	1 yr 	0 yrs	0	$123,750	120K 	 3.8K 	 N/A
+	Mountain View, CA 	 11/17/2022	L4	ML / AI	1 yr 	0 yrs	0	$284,750	180K 	 77.8K 	 27K
+	Mountain View, CA 	 11/06/2022	L4	ML / AI	0 yrs 	0 yrs	0	$242,550	167K 	 36.8K 	 38.8K
+	San Francisco, CA 	 11/04/2022	L4	ML / AI	2 yrs 	2 yrs	0	$218,000	168K 	 25K 	 25K
+	New York, NY 	 10/14/2022	L3	ML / AI	2 yrs 	2 yrs	0	$200,000	140K 	 60K 	 N/A
+	Mountain View, CA 	 10/13/2022	L4	ML / AI	2 yrs 	1 yr	0	$301,250	185K 	 71.3K 	 45K
+	San Francisco, CA 	 10/01/2022	L4	ML / AI	2 yrs 	0 yrs	0	$227,500	170K 	 27.5K 	 30K
+	Seattle, WA 	 09/13/2022	L3	ML / AI	0 yrs 	0 yrs	0	$168,550	127K 	 22.5K 	 19.1K
+	New York, NY 	 09/07/2022	L4	ML / AI	0 yrs 	0 yrs	0	$255,000	230K 	 25K 	 N/A
+	Menlo Park, CA 	 08/31/2022	L3	ML / AI	0 yrs 	0 yrs	0	$175,000	150K 	 25K 	 N/A
+	New York, NY 	 08/23/2022	L3	ML / AI	1 yr 	0 yrs	0	$250,000	190K 	 60K 	 N/A
+	Los Angeles, CA 	 08/09/2022	L4	ML / AI	0 yrs 	0 yrs	0	$230,000	130K 	 100K 	 N/A
+	Seattle, WA 	 08/01/2022	L4	ML / AI	2 yrs 	0 yrs	0	$310,750	175K 	 94.5K 	 41.3K
+	New York, NY 	 07/24/2022	L3	ML / AI	0 yrs 	0 yrs	0	$192,500	180K 	 12.5K 	 N/A
+	New York, NY 	 07/23/2022	L4	ML / AI	2 yrs 	1 yr	0	$290,000	225K 	 65K 	 N/A
+	Durham, NC 	 07/18/2022	L4	ML / AI	2 yrs 	0 yrs	0	$250,500	145K 	 83.8K 	 21.8K
+	New York, NY 	 07/17/2022	L3	ML / AI	1 yr 	1 yr	0	$200,000	150K 	 50K 	 N/A
+	New York, NY 	 07/13/2022	L4	ML / AI	2 yrs 	1 yr	0	$260,000	200K 	 60K 	 N/A
+	Bellevue, WA 	 07/12/2022	L4	ML / AI	0 yrs 	0 yrs	0	$325,500	165K 	 117.3K 	 43.3K
+	Sunnyvale, CA 	 07/11/2022	L4	ML / AI	0 yrs 	0 yrs	0	$278,050	167K 	 73.5K 	 37.6K
+	Los Angeles, CA 	 07/01/2022	L3	ML / AI	2 yrs 	0 yrs	0	$267,500	160K 	 70K 	 37.5K
+	San Francisco, CA 	 07/01/2022	L3	ML / AI	2 yrs 	0 yrs	0	$175,000	150K 	 25K 	 N/A
+	San Francisco, CA 	 07/01/2022	L3	ML / AI	2 yrs 	0 yrs	0	$213,750	150K 	 32.5K 	 31.3K
+	San Francisco, CA 	 06/30/2022	L3	ML / AI	0 yrs 	0 yrs	0	$220,000	120K 	 75K 	 25K
+	Mountain View, CA 	 06/27/2022	L3	ML / AI	0 yrs 	0 yrs	0	$194,150	142K 	 25K 	 27.2K
+	Los Angeles, CA 	 06/18/2022	L3	ML / AI	1 yr 	0 yrs	0	$192,500	190K 	 2.5K 	 N/A
+	Mountain View, CA 	 06/09/2022	L4	ML / AI	0 yrs 	0 yrs	0	$285,000	180K 	 78K 	 27K
+	San Francisco, CA 	 06/05/2022	L3	ML / AI	2 yrs 	0 yrs	0	$210,850	152K 	 28.8K 	 30.1K
+	Mountain View, CA 	 06/01/2022	L3	ML / AI	1 yr 	0 yrs	0	$253,400	166K 	 62.5K 	 24.9K
+	Mountain View, CA 	 06/01/2022	L4	ML / AI	0 yrs 	0 yrs	0	$204,500	167K 	 37.5K 	 N/A
+	Mountain View, CA 	 05/31/2022	L4	ML / AI	2 yrs 	0 yrs	+$15K	$279,200	178K 	 65.8K 	 35.5K
+	Seattle, WA 	 05/31/2022	L4	ML / AI	0 yrs 	0 yrs	0	$290,700	168K 	 87.5K 	 35.2K
+	San Francisco, CA 	 05/31/2022	L4	ML / AI	2 yrs 	0 yrs	0	$307,750	185K 	 85K 	 37.8K
+	San Francisco, CA 	 05/19/2022	L4	ML / AI	0 yrs 	0 yrs	0	$242,300	167K 	 36.8K 	 38.6K
+	Los Angeles, CA 	 05/16/2022	L3	ML / AI	1 yr 	0 yrs	+$60K	$208,075	143K 	 35.3K 	 29.8K
+	Mountain View, CA 	 05/12/2022	L4	ML / AI	2 yrs 	0 yrs	0	$273,200	178K 	 65.8K 	 29.5K
+	Mountain View, CA 	 05/01/2022	L4	ML / AI	2 yrs 	0 yrs	0	$306,200	188K 	 87.5K 	 30.7K
+	Mountain View, CA 	 04/30/2022	L3	ML / AI	0 yrs 	0 yrs	0	$197,700	144K 	 25K 	 28.7K
+	New York, NY 	 04/30/2022	L3	ML / AI	2 yrs 	2 yrs	0	$210,000	145K 	 40K 	 25K
+	Irvine, CA 	 04/27/2022	L4	ML / AI	2 yrs 	0 yrs	0	$288,100	169K 	 91.3K 	 27.9K
+	Mountain View, CA 	 04/13/2022	L4	ML / AI	2 yrs 	2 yrs	0	$328,000	175K 	 118K 	 35K
+	Mountain View, CA 	 04/11/2022	L4	ML / AI	2 yrs 	0 yrs	0	$295,600	180K 	 72.5K 	 43.1K
+	New York, NY 	 04/10/2022	L4	ML / AI	2 yrs 	0 yrs	0	$279,250	180K 	 58.8K 	 40.5K
+	Mountain View, CA 	 04/09/2022	L4	ML / AI	2 yrs 	2 yrs	0	$245,000	168K 	 40K 	 37K
+	Seattle, WA 	 04/05/2022	L4	ML / AI	2 yrs 	0 yrs	0	$281,250	169K 	 87.3K 	 25K
+	Seattle, WA 	 04/01/2022	L5	ML / AI	2 yrs 	0 yrs	0	$365,025	191K 	 138.3K 	 35.8K
+	San Francisco, CA 	 04/01/2022	L4	ML / AI	1 yr 	0 yrs	0	$292,000	180K 	 75K 	 37K
+	Mountain View, CA 	 04/01/2022	L4	ML / AI	2 yrs 	0 yrs	0	$288,250	180K 	 75K 	 33.3K
+	Mountain View, CA 	 04/01/2022	L4	ML / AI	2 yrs 	0 yrs	0	$311,600	184K 	 87.5K 	 40.1K
+	New York, NY 	 03/31/2022	L4	ML / AI	0 yrs 	0 yrs	0	$279,500	167K 	 75K 	 37.5K
+	New York, NY 	 03/24/2022	L4	ML / AI	2 yrs 	2 yrs	0	$285,895	170K 	 87.9K 	 28K
+	San Francisco, CA 	 03/13/2022	L3	ML / AI	2 yrs 	0 yrs	0	$191,000	131K 	 40K 	 20K
+	San Francisco, CA 	 02/28/2022	L4	ML / AI	2 yrs 	2 yrs	0	$255,000	175K 	 65K 	 15K
+	Los Angeles, CA 	 02/28/2022	L4	ML / AI	2 yrs 	0 yrs	0	$274,250	165K 	 77.3K 	 32K
+	Sunnyvale, CA 	 02/28/2022	L3	ML / AI	0 yrs 	0 yrs	0	$194,150	142K 	 25K 	 27.2K
+	New York, NY 	 02/27/2022	L3	ML / AI	0 yrs 	0 yrs	0	$196,000	142K 	 33K 	 21K
+	Sunnyvale, CA 	 02/25/2022	L3	ML / AI	0 yrs 	0 yrs	0	$192,000	142K 	 25K 	 25K
+	Mountain View, CA 	 02/21/2022	L4	ML / AI	0 yrs 	0 yrs	0	$293,000	167K 	 101K 	 25K
+	Sunnyvale, CA 	 02/17/2022	L3	ML / AI	2 yrs 	0 yrs	0	$196,000	146K 	 28K 	 22K
+	Mountain View, CA 	 02/11/2022	L4	ML / AI	2 yrs 	2 yrs	0	$292,000	180K 	 85K 	 27K
+	Mountain View, CA 	 02/10/2022	L4	ML / AI	0 yrs 	0 yrs	0	$229,000	167K 	 37K 	 25K
+	Mountain View, CA 	 02/08/2022	L4	ML / AI	2 yrs 	2 yrs	0	$270,000	175K 	 69K 	 26K
+	Pittsburgh, PA 	 02/05/2022	L4	ML / AI	0 yrs 	0 yrs	0	$237,000	149K 	 66K 	 22K
+	Mountain View, CA 	 02/03/2022	L4	ML / AI	0 yrs 	0 yrs	0	$229,000	167K 	 37K 	 25K
+	Seattle, WA 	 02/01/2022	L4	ML / AI	2 yrs 	0 yrs	0	$234,300	162K 	 37.5K 	 34.8K
+	Seattle, WA 	 02/01/2022	L3	ML / AI	1 yr 	0 yrs	0	$189,925	137K 	 25.8K 	 27.2K
+	New York, NY 	 01/31/2022	L4	ML / AI	0 yrs 	0 yrs	0	$259,550	167K 	 60K 	 32.6K
+	Mountain View, CA 	 01/31/2022	L3	ML / AI	0 yrs 	0 yrs	0	$167,000	142K 	 25K 	 N/A
+	San Francisco, CA 	 01/31/2022	L3	ML / AI	0 yrs 	0 yrs	0	$174,050	169K 	 5.1K 	 N/A
+	Mountain View, CA 	 01/31/2022	L3	ML / AI	0 yrs 	0 yrs	0	$169,000	144K 	 25K 	 N/A
+	Sunnyvale, CA 	 01/31/2022	L3	ML / AI	0 yrs 	0 yrs	0	$199,250	144K 	 25K 	 30.3K
+	Kirkland, WA 	 01/31/2022	L4	ML / AI	2 yrs 	0 yrs	0	$296,000	170K 	 100K 	 26K
+	Sunnyvale, CA 	 01/26/2022	L3	ML / AI	1 yr 	0 yrs	0	$191,000	144K 	 25K 	 22K
+	New York, NY 	 01/26/2022	L3	ML / AI	1 yr 	0 yrs	0	$228,000	159K 	 45K 	 24K
+	Mountain View, CA 	 01/23/2022	L4	ML / AI	2 yrs 	0 yrs	0	$330,000	188K 	 102K 	 40K
+	Mountain View, CA 	 01/21/2022	L4	ML / AI	0 yrs 	0 yrs	0	$227,000	167K 	 35K 	 25K
+	Mountain View, CA 	 01/20/2022	L3	ML / AI	0 yrs 	0 yrs	0	$210,000	142K 	 35K 	 33K
+	San Francisco, CA 	 01/19/2022	L4	ML / AI	2 yrs 	0 yrs	0	$336,000	188K 	 120K 	 28K
+	New York, NY 	 01/12/2022	L4	ML / AI	1 yr 	0 yrs	0	$229,000	167K 	 37K 	 25K
+	Seattle, WA 	 01/06/2022	L4	ML / AI	0 yrs 	0 yrs	0	$300,000	180K 	 100K 	 20K
+	Irvine, CA 	 01/01/2022	L3	ML / AI	0 yrs 	0 yrs	0	$213,250	129K 	 57.5K 	 26.8K
+	San Francisco, CA 	 12/31/2021	L4	ML / AI	1 yr 	0 yrs	0	$315,000	179K 	 92.5K 	 43.5K
+	Seattle, WA 	 12/31/2021	L4	ML / AI	2 yrs 	0 yrs	0	$278,100	169K 	 77.5K 	 31.6K
+	Mountain View, CA 	 12/30/2021	L3	ML / AI	0 yrs 	0 yrs	0	$199,000	144K 	 33K 	 22K
+	Mountain View, CA 	 12/29/2021	L4	ML / AI	0 yrs 	0 yrs	0	$289,000	167K 	 84K 	 38K
+	Sunnyvale, CA 	 12/24/2021	L3	ML / AI	0 yrs 	0 yrs	0	$210,000	144K 	 50K 	 16K
+	Mountain View, CA 	 12/23/2021	L3	ML / AI	0 yrs 	0 yrs	0	$188,000	142K 	 25K 	 21K
+	San Francisco, CA 	 12/22/2021	L4	ML / AI	2 yrs 	2 yrs	0	$336,000	171K 	 130K 	 35K
+	Kirkland, WA 	 12/21/2021	L3	ML / AI	0 yrs 	0 yrs	0	$184,000	129K 	 25K 	 30K
+	Mountain View, CA 	 12/21/2021	L4	ML / AI	2 yrs 	2 yrs	0	$274,000	162K 	 80K 	 32K
+	Mountain View, CA 	 12/20/2021	L3	ML / AI	2 yrs 	2 yrs	0	$225,000	150K 	 50K 	 25K
+	Mountain View, CA 	 12/17/2021	L3	ML / AI	0 yrs 	0 yrs	0	$239,000	144K 	 73K 	 22K
+	Mountain View, CA 	 12/16/2021	L4	ML / AI	2 yrs 	2 yrs	0	$279,000	169K 	 80K 	 30K
+	Mountain View, CA 	 12/10/2021	L4	ML / AI	2 yrs 	0 yrs	0	$277,000	170K 	 82K 	 25K
+	Mountain View, CA 	 12/06/2021	L5	ML / AI	2 yrs 	2 yrs	0	$383,000	202K 	 145K 	 36K
+	Pittsburgh, PA 	 12/04/2021	L3	ML / AI	0 yrs 	0 yrs	0	$186,000	111K 	 45K 	 30K
+	Sunnyvale, CA 	 11/30/2021	L3	ML / AI	0 yrs 	0 yrs	0	$194,205	172.6K 	 16.6K 	 5K
+	San Francisco, CA 	 11/26/2021	L4	ML / AI	0 yrs 	0 yrs	0	$250,000	170K 	 60K 	 20K
+	San Francisco, CA 	 11/24/2021	L4	ML / AI	2 yrs 	2 yrs	0	$340,000	170K 	 140K 	 30K
+	Austin, TX 	 11/22/2021	L4	ML / AI	2 yrs 	0 yrs	0	$247,000	150K 	 68K 	 29K
+	Sunnyvale, CA 	 11/19/2021	L4	ML / AI	2 yrs 	0 yrs	0	$300,000	170K 	 100K 	 30K
+	Mountain View, CA 	 11/19/2021	L3	ML / AI	0 yrs 	0 yrs	0	$184,000	134K 	 25K 	 25K
+Goldman Sachs	New York, NY 	 4 days ago	Associate	ML / AI	0 yrs 	0 yrs	0	$86,000	86K 	 N/A 	 N/A
+	New York, NY 	 5 days ago	Analyst	ML / AI	1 yr 	1 yr	0	$255,000	235K 	 N/A 	 20K
+	New York, NY 	 11/30/2022	Associate	ML / AI	0 yrs 	0 yrs	0	$170,000	125K 	 N/A 	 45K
+	New York, NY 	 11/01/2022	Analyst	ML / AI	0 yrs 	0 yrs	0	$100,000	100K 	 N/A 	 N/A
+	New York, NY 	 10/05/2022	Associate	ML / AI	1 yr 	1 yr	0	$252,000	180K 	 N/A 	 72K
+	New York, NY 	 09/12/2022	Analyst	ML / AI	2 yrs 	0 yrs	0	$163,750	130K 	 N/A 	 33.8K
+	New York, NY 	 08/03/2022	Analyst	ML / AI	1 yr 	1 yr	0	$130,000	130K 	 N/A 	 N/A
+	New York, NY 	 07/13/2022	Associate	ML / AI	1 yr 	1 yr	+$35K	$284,000	164K 	 N/A 	 120K
+	New York, NY 	 06/30/2022	Associate	ML / AI	0 yrs 	0 yrs	0	$125,000	125K 	 N/A 	 N/A
+	New York, NY 	 03/02/2022	Analyst	ML / AI	0 yrs 	0 yrs	0	$250,000	200K 	 N/A 	 50K
+	Dallas, TX 	 02/28/2022	Analyst	ML / AI	0 yrs 	0 yrs	0	$90,000	85K 	 N/A 	 5K
+Alarm.com	Washington, DC 	 6 days ago	Associate Research Scientist	ML / AI	0 yrs 	0 yrs	+$25K	$125,000	125K 	 N/A 	 N/A
+JPMorgan Chase	Columbus, OH 	 6 days ago	Analyst	ML / AI	1 yr 	1 yr	0	$85,000	85K 	 N/A 	 N/A
+	New York, NY 	 10/07/2022	Associate	ML / AI	0 yrs 	0 yrs	0	$125,000	115K 	 N/A 	 10K
+	Jersey City, NJ 	 08/15/2022	Analyst	ML / AI	1 yr 	0 yrs	0	$120,000	110K 	 N/A 	 10K
+	Jersey City, NJ 	 04/17/2022	Associate	ML / AI	2 yrs 	2 yrs	0	$128,000	128K 	 N/A 	 N/A
+	Jersey City, NJ 	 03/31/2022	Analyst	ML / AI	2 yrs 	0 yrs	0	$132,000	120K 	 N/A 	 12K
+	Jersey City, NJ 	 01/26/2022	Analyst	ML / AI	1 yr 	1 yr	0	$125,000	115K 	 N/A 	 10K
+	Seattle, WA 	 01/20/2022	Associate	ML / AI	2 yrs 	2 yrs	0	$160,000	125K 	 N/A 	 35K
+	Palo Alto, CA 	 01/20/2022	Analyst	ML / AI	0 yrs 	0 yrs	0	$145,000	130K 	 N/A 	 15K
+	Jersey City, NJ 	 12/17/2021	Associate	ML / AI	0 yrs 	0 yrs	0	$125,000	110K 	 N/A 	 15K
+	Houston, TX 	 11/08/2021	Associate	ML / AI	1 yr 	0 yrs	0	$100,000	90K 	 3K 	 7K
+Amazon	New York, NY 	 7 days ago	SDE II	ML / AI	2 yrs 	2 yrs	0	$263,000	167K 	 96K 	 N/A
+	Seattle, WA 	 12/20/2022	SDE I	ML / AI	0 yrs 	0 yrs	0	$175,000	125K 	 30K 	 20K
+	New York, NY 	 12/20/2022	SDE I	ML / AI	1 yr 	0 yrs	0	$150,000	150K 	 N/A 	 N/A
+	Bellevue, WA 	 12/19/2022	SDE II	ML / AI	2 yrs 	2 yrs	0	$250,000	150K 	 100K 	 N/A
+	Santa Clara, CA 	 12/18/2022	SDE I	ML / AI	2 yrs 	2 yrs	0	$135,000	135K 	 N/A 	 N/A
+	Seattle, WA 	 12/09/2022	SDE I	ML / AI	1 yr 	0 yrs	0	$179,000	139K 	 40K 	 N/A
+	Seattle, WA 	 12/09/2022	SDE II	ML / AI	2 yrs 	2 yrs	0	$256,000	176K 	 40K 	 40K
+	Los Angeles, CA 	 12/08/2022	SDE II	ML / AI	0 yrs 	0 yrs	0	$247,500	220K 	 27.5K 	 N/A
+	Seattle, WA 	 12/01/2022	SDE II	ML / AI	0 yrs 	0 yrs	0	$285,000	150K 	 60K 	 75K
+	San Francisco, CA 	 11/21/2022	SDE II	ML / AI	0 yrs 	0 yrs	0	$380,000	180K 	 N/A 	 N/A
+	Seattle, WA 	 11/17/2022	SDE II	ML / AI	1 yr 	1 yr	0	$272,000	152K 	 50K 	 70K
+	New York, NY 	 11/17/2022	SDE I	ML / AI	0 yrs 	0 yrs	0	$96,270	92.5K 	 3.8K 	 N/A
+	Cupertino, CA 	 11/14/2022	SDE I	ML / AI	0 yrs 	0 yrs	0	$217,750	175K 	 21.3K 	 21.5K
+	Sunnyvale, CA 	 11/14/2022	SDE II	ML / AI	2 yrs 	2 yrs	0	$420,000	180K 	 240K 	 N/A
+	New York, NY 	 11/13/2022	SDE I	ML / AI	2 yrs 	0 yrs	0	$210,000	180K 	 N/A 	 30K
+	Fayetteville, AR 	 11/08/2022	SDE II	ML / AI	1 yr 	0 yrs	0	$280,000	185K 	 46.5K 	 48.5K
+	New York, NY 	 11/03/2022	SDE I	ML / AI	0 yrs 	0 yrs	0	$197,000	180K 	 17K 	 N/A
+	Austin, TX 	 11/01/2022	SDE I	ML / AI	2 yrs 	0 yrs	0	$179,000	140K 	 22K 	 17K
+	Seattle, WA 	 10/31/2022	SDE I	ML / AI	0 yrs 	0 yrs	0	$251,000	160K 	 52.5K 	 38.5K
+	Boston, MA 	 10/12/2022	SDE I	ML / AI	0 yrs 	0 yrs	0	$235,000	155K 	 10K 	 70K
+	Seattle, WA 	 10/11/2022	SDE I	ML / AI	1 yr 	0 yrs	0	$242,496	160K 	 47.5K 	 35K
+	Seattle, WA 	 10/11/2022	SDE II	ML / AI	1 yr 	1 yr	0	$292,000	152K 	 70K 	 70K
+	Seattle, WA 	 10/10/2022	SDE II	ML / AI	1 yr 	0 yrs	0	$370,000	180K 	 110K 	 80K
+	Los Angeles, CA 	 10/06/2022	SDE II	ML / AI	2 yrs 	0 yrs	0	$325,000	160K 	 87.5K 	 77.5K
+	Seattle, WA 	 10/05/2022	SDE II	ML / AI	2 yrs 	2 yrs	0	$313,200	193.2K 	 120K 	 N/A
+	New York, NY 	 10/03/2022	SDE I	ML / AI	2 yrs 	1 yr	0	$237,000	180K 	 30K 	 27K
+	New York, NY 	 10/03/2022	SDE I	ML / AI	2 yrs 	2 yrs	0	$174,000	134K 	 40K 	 N/A
+	Seattle, WA 	 10/02/2022	SDE II	ML / AI	2 yrs 	2 yrs	0	$175,000	150K 	 25K 	 N/A
+	Santa Clara, CA 	 09/18/2022	SDE II	ML / AI	0 yrs 	0 yrs	0	$433,000	200K 	 125K 	 108K
+	Sunnyvale, CA 	 09/18/2022	L3	ML / AI	0 yrs 	0 yrs	0	$275,000	175K 	 N/A 	 100K
+	Santa Clara, CA 	 09/16/2022	SDE I	ML / AI	0 yrs 	0 yrs	+$15K	$230,009	180K 	 30K 	 20K
+	Seattle, WA 	 09/15/2022	SDE I	ML / AI	0 yrs 	0 yrs	0	$166,750	129K 	 23.8K 	 14K
+	Santa Clara, CA 	 09/15/2022	SDE II	ML / AI	0 yrs 	0 yrs	0	$453,000	200K 	 125K 	 128K
+	New York, NY 	 09/14/2022	SDE I	ML / AI	0 yrs 	0 yrs	0	$281,750	175K 	 62.5K 	 44.3K
+	Bellevue, WA 	 09/13/2022	SDE I	ML / AI	1 yr 	1 yr	0	$153,000	130K 	 23K 	 N/A
+	Los Angeles, CA 	 09/11/2022	SDE II	ML / AI	0 yrs 	0 yrs	0	$260,000	165K 	 95K 	 N/A
+	New York, NY 	 09/10/2022	SDE I	ML / AI	0 yrs 	0 yrs	0	$195,173	141.9K 	 30.6K 	 22.6K
+	Seattle, WA 	 09/08/2022	SDE I	ML / AI	0 yrs 	0 yrs	0	$176,750	129K 	 27.8K 	 20K
+	Seattle, WA 	 09/01/2022	SDE I	ML / AI	0 yrs 	0 yrs	0	$183,375	129K 	 24.4K 	 30K
+	Palo Alto, CA 	 08/30/2022	SDE I	ML / AI	1 yr 	0 yrs	0	$234,000	148K 	 30K 	 56K
+	Sunnyvale, CA 	 08/29/2022	SDE II	ML / AI	0 yrs 	0 yrs	0	$389,452	192.2K 	 111K 	 86.3K
+	Seattle, WA 	 08/26/2022	SDE I	ML / AI	2 yrs 	2 yrs	0	$169,834	127.9K 	 36.1K 	 5.8K
+	Westborough, MA 	 08/26/2022	SDE I	ML / AI	2 yrs 	2 yrs	0	$161,576	118.8K 	 39.2K 	 3.6K
+	San Jose, CA 	 08/24/2022	SDE II	ML / AI	2 yrs 	2 yrs	0	$320,000	180K 	 100K 	 40K
+	Seattle, WA 	 08/24/2022	SDE I	ML / AI	2 yrs 	2 yrs	0	$175,000	130K 	 45K 	 N/A
+	Seattle, WA 	 08/12/2022	SDE I	ML / AI	1 yr 	1 yr	0	$157,500	133K 	 24.5K 	 N/A
+	Santa Clara, CA 	 08/12/2022	SDE I	ML / AI	0 yrs 	0 yrs	0	$205,742	148.4K 	 32K 	 25.3K
+	Palo Alto, CA 	 08/10/2022	SDE I	ML / AI	0 yrs 	0 yrs	0	$131,250	130K 	 1.3K 	 N/A
+	Seattle, WA 	 08/08/2022	SDE I	ML / AI	0 yrs 	0 yrs	0	$130,000	130K 	 N/A 	 N/A
+	Seattle, WA 	 08/02/2022	SDE I	ML / AI	0 yrs 	0 yrs	0	$185,280	130.5K 	 33.3K 	 21.5K
+	San Luis Obispo, CA 	 08/01/2022	SDE I	ML / AI	0 yrs 	0 yrs	0	$167,000	129K 	 23.8K 	 14.3K
+	Seattle, WA 	 08/01/2022	SDE II	ML / AI	1 yr 	0 yrs	0	$450,500	210K 	 129.3K 	 111.3K
+	Seattle, WA 	 08/01/2022	SDE II	ML / AI	0 yrs 	0 yrs	0	$302,500	150K 	 87.5K 	 65K
+	Seattle, WA 	 07/31/2022	SDE II	ML / AI	2 yrs 	2 yrs	0	$245,000	165K 	 80K 	 N/A
+	Arlington, VA 	 07/27/2022	SDE I	ML / AI	0 yrs 	0 yrs	0	$185,444	129K 	 23.8K 	 32.7K
+	Seattle, WA 	 07/26/2022	SDE II	ML / AI	0 yrs 	0 yrs	0	$126,684	126.7K 	 N/A 	 N/A
+	New York, NY 	 07/24/2022	SDE I	ML / AI	2 yrs 	2 yrs	0	$247,000	136K 	 81K 	 30K
+	Seattle, WA 	 07/24/2022	SDE I	ML / AI	0 yrs 	0 yrs	0	$168,935	129K 	 23.8K 	 16.2K
+	Seattle, WA 	 07/21/2022	SDE I	ML / AI	0 yrs 	0 yrs	0	$228,556	136K 	 65.6K 	 27K
+	Seattle, WA 	 07/18/2022	SDE I	ML / AI	1 yr 	0 yrs	0	$161,000	125K 	 22.5K 	 13.5K
+	San Francisco, CA 	 07/13/2022	SDE II	ML / AI	2 yrs 	0 yrs	0	$338,250	195K 	 83.3K 	 60K
+	Seattle, WA 	 07/09/2022	SDE I	ML / AI	1 yr 	1 yr	0	$163,000	130K 	 10K 	 23K
+	Pittsburgh, PA 	 07/06/2022	SDE I	ML / AI	2 yrs 	0 yrs	0	$173,500	125K 	 30.5K 	 18K
+	Seattle, WA 	 07/01/2022	SDE I	ML / AI	1 yr 	0 yrs	0	$112,728	112.7K 	 N/A 	 N/A
+	New York, NY 	 07/01/2022	SDE II	ML / AI	2 yrs 	0 yrs	0	$342,925	190.6K 	 80.5K 	 71.8K
+	Seattle, WA 	 07/01/2022	SDE II	ML / AI	1 yr 	0 yrs	0	$448,750	210K 	 129.3K 	 109.5K
+	Seattle, WA 	 07/01/2022	SDE I	ML / AI	0 yrs 	0 yrs	0	$189,250	160K 	 29.3K 	 N/A
+	Austin, TX 	 07/01/2022	SDE I	ML / AI	0 yrs 	0 yrs	0	$171,750	130K 	 25K 	 16.8K
+	New York, NY 	 06/27/2022	SDE I	ML / AI	0 yrs 	0 yrs	0	$186,750	142K 	 27.5K 	 17.3K
+	Arlington, VA 	 06/27/2022	SDE I	ML / AI	1 yr 	0 yrs	0	$155,000	130K 	 5K 	 20K
+	New York, NY 	 06/20/2022	SDE I	ML / AI	0 yrs 	0 yrs	0	$234,500	160K 	 40K 	 34.5K
+	Seattle, WA 	 06/03/2022	SDE II	ML / AI	2 yrs 	2 yrs	0	$320,000	197K 	 123K 	 N/A
+	San Francisco, CA 	 05/31/2022	SDE I	ML / AI	1 yr 	0 yrs	0	$237,410	160K 	 42.4K 	 35K
+	Cambridge, MA 	 05/31/2022	SDE II	ML / AI	2 yrs 	0 yrs	0	$375,000	180K 	 108.5K 	 86.5K
+	Cambridge, MA 	 05/26/2022	SDE I	ML / AI	0 yrs 	0 yrs	0	$187,549	149K 	 20.5K 	 18K
+	New York, NY 	 05/24/2022	SDE I	ML / AI	0 yrs 	0 yrs	+$15K	$214,950	175K 	 25K 	 15K
+	Seattle, WA 	 05/21/2022	SDE I	ML / AI	2 yrs 	2 yrs	0	$184,700	140.7K 	 44K 	 N/A
+	Santa Clara, CA 	 05/20/2022	SDE II	ML / AI	2 yrs 	2 yrs	0	$290,600	180.6K 	 110K 	 N/A
+	Cupertino, CA 	 05/19/2022	SDE I	ML / AI	0 yrs 	0 yrs	0	$212,500	160K 	 30K 	 22.5K
+	Sunnyvale, CA 	 05/17/2022	L3	ML / AI	1 yr 	0 yrs	0	$200,421	155K 	 23.9K 	 21.5K
+	Seattle, WA 	 05/09/2022	SDE I	ML / AI	0 yrs 	0 yrs	0	$170,250	130K 	 23.8K 	 16.5K
+	Sunnyvale, CA 	 05/05/2022	SDE I	ML / AI	0 yrs 	0 yrs	0	$209,630	148.4K 	 32K 	 29.2K
+	New York, NY 	 05/01/2022	SDE II	ML / AI	2 yrs 	0 yrs	0	$311,750	180K 	 75K 	 56.8K
+	Boston, MA 	 04/30/2022	SDE I	ML / AI	0 yrs 	0 yrs	0	$157,000	132K 	 25K 	 N/A
+	Palo Alto, CA 	 04/13/2022	SDE II	ML / AI	2 yrs 	2 yrs	0	$367,000	192K 	 175K 	 N/A
+	Boston, MA 	 04/13/2022	SDE I	ML / AI	2 yrs 	2 yrs	0	$172,500	133K 	 27K 	 12.5K
+	Sunnyvale, CA 	 04/11/2022	SDE II	ML / AI	1 yr 	1 yr	0	$328,100	175K 	 88K 	 65.1K
+	New York, NY 	 04/09/2022	SDE II	ML / AI	2 yrs 	2 yrs	0	$263,600	177.6K 	 81K 	 5K
+	Seattle, WA 	 04/08/2022	SDE II	ML / AI	2 yrs 	2 yrs	0	$254,800	150.8K 	 104K 	 N/A
+	Sunnyvale, CA 	 04/05/2022	SDE I	ML / AI	2 yrs 	2 yrs	0	$205,000	142K 	 30K 	 33K
+	Seattle, WA 	 03/31/2022	SDE I	ML / AI	2 yrs 	2 yrs	0	$275,000	125K 	 150K 	 N/A
+	Sunnyvale, CA 	 03/30/2022	SDE II	ML / AI	2 yrs 	2 yrs	0	$300,000	175K 	 125K 	 N/A
+	Seattle, WA 	 03/28/2022	SDE I	ML / AI	2 yrs 	2 yrs	0	$133,700	113.7K 	 20K 	 N/A
+	Cupertino, CA 	 03/25/2022	SDE I	ML / AI	2 yrs 	0 yrs	0	$204,500	155K 	 31.3K 	 18.3K
+	Seattle, WA 	 03/16/2022	SDE I	ML / AI	0 yrs 	0 yrs	0	$113,000	113K 	 N/A 	 N/A
+	Raleigh, NC 	 03/01/2022	SDE I	ML / AI	1 yr 	0 yrs	0	$181,000	135K 	 27K 	 19K
+	Seattle, WA 	 03/01/2022	SDE I	ML / AI	0 yrs 	0 yrs	0	$190,438	129K 	 25K 	 36.4K
+	New York, NY 	 02/28/2022	SDE II	ML / AI	2 yrs 	0 yrs	0	$214,000	175K 	 19.5K 	 19.5K
+	San Francisco, CA 	 02/28/2022	SDE I	ML / AI	2 yrs 	0 yrs	0	$213,500	165K 	 25K 	 23.5K
+	New York, NY 	 02/27/2022	SDE I	ML / AI	1 yr 	0 yrs	+$15K	$205,000	150K 	 31K 	 24K
+	New York, NY 	 02/14/2022	SDE I	ML / AI	2 yrs 	0 yrs	0	$210,000	170K 	 20K 	 20K
+	Seattle, WA 	 02/09/2022	SDE I	ML / AI	2 yrs 	2 yrs	0	$142,000	111K 	 17K 	 14K
+	Austin, TX 	 02/08/2022	SDE I	ML / AI	1 yr 	0 yrs	0	$170,000	129K 	 24K 	 17K
+	Sunnyvale, CA 	 02/02/2022	SDE I	ML / AI	0 yrs 	0 yrs	0	$176,000	134K 	 26K 	 16K
+	Tempe, AZ 	 02/01/2022	SDE I	ML / AI	0 yrs 	0 yrs	0	$137,500	120K 	 17.5K 	 N/A
+	Seattle, WA 	 01/28/2022	SDE I	ML / AI	0 yrs 	0 yrs	0	$231,000	150K 	 38K 	 43K
+	Seattle, WA 	 01/26/2022	SDE II	ML / AI	2 yrs 	2 yrs	0	$340,000	160K 	 110K 	 70K
+	Seattle, WA 	 01/20/2022	SDE II	ML / AI	0 yrs 	0 yrs	0	$311,000	155K 	 88K 	 68K
+	Palo Alto, CA 	 12/14/2021	L3	ML / AI	0 yrs 	0 yrs	0	$203,000	148K 	 32K 	 23K
+	Boston, MA 	 12/10/2021	SDE II	ML / AI	1 yr 	1 yr	0	$343,000	152K 	 131K 	 60K
+	Palo Alto, CA 	 12/09/2021	SDE II	ML / AI	2 yrs 	2 yrs	0	$320,000	170K 	 150K 	 N/A
+	Seattle, WA 	 12/05/2021	SDE I	ML / AI	1 yr 	1 yr	0	$146,000	114K 	 20K 	 12K
+	Seattle, WA 	 12/05/2021	SDE I	ML / AI	0 yrs 	0 yrs	0	$167,000	129K 	 24K 	 14K
+	New York, NY 	 12/02/2021	SDE I	ML / AI	0 yrs 	0 yrs	0	$190,000	142K 	 28K 	 20K
+	Boston, MA 	 12/01/2021	SDE I	ML / AI	1 yr 	1 yr	0	$210,000	155K 	 55K 	 N/A
+	Columbus, OH 	 11/30/2021	SDE I	ML / AI	0 yrs 	0 yrs	0	$197,500	160K 	 37.5K 	 N/A
+	Seattle, WA 	 11/20/2021	SDE I	ML / AI	1 yr 	1 yr	0	$142,000	112K 	 20K 	 10K
+	Seattle, WA 	 11/18/2021	SDE I	ML / AI	0 yrs 	0 yrs	0	$182,000	129K 	 24K 	 29K
+	Seattle, WA 	 11/16/2021	SDE I	ML / AI	0 yrs 	0 yrs	0	$152,000	120K 	 4K 	 28K
+	New York, NY 	 11/08/2021	L3	ML / AI	0 yrs 	0 yrs	0	$175,000	132K 	 25K 	 18K
+Nvidia	San Francisco, CA 	 12/31/2022	IC3	ML / AI	2 yrs 	2 yrs	0	$285,000	190K 	 95K 	 N/A
+	New York, NY 	 11/10/2022	IC2	ML / AI	0 yrs 	0 yrs	0	$130,000	130K 	 N/A 	 N/A
+	Santa Clara, CA 	 10/08/2022	IC2	ML / AI	1 yr 	0 yrs	0	$197,500	160K 	 37.5K 	 N/A
+	Santa Clara, CA 	 09/13/2022	IC3	ML / AI	0 yrs 	0 yrs	0	$241,250	180K 	 53.8K 	 7.5K
+	Santa Clara, CA 	 09/11/2022	IC2	ML / AI	2 yrs 	0 yrs	+$13K	$190,500	153K 	 37.5K 	 N/A
+	Santa Clara, CA 	 09/10/2022	IC2	ML / AI	0 yrs 	0 yrs	0	$202,500	160K 	 37.5K 	 5K
+	Santa Clara, CA 	 08/29/2022	IC2	ML / AI	2 yrs 	0 yrs	0	$202,500	160K 	 35K 	 7.5K
+	Santa Clara, CA 	 08/28/2022	IC2	ML / AI	1 yr 	0 yrs	0	$197,875	157K 	 33.8K 	 7.1K
+	Holmdel, NJ 	 08/18/2022	IC3	ML / AI	0 yrs 	0 yrs	0	$205,750	157K 	 42.5K 	 6.3K
+	Santa Clara, CA 	 07/01/2022	IC2	ML / AI	0 yrs 	0 yrs	0	$183,250	155K 	 24.5K 	 3.8K
+	Santa Clara, CA 	 06/22/2022	IC1	ML / AI	0 yrs 	0 yrs	0	$164,000	144K 	 20K 	 N/A
+	Santa Clara, CA 	 05/01/2022	IC3	ML / AI	0 yrs 	0 yrs	0	$231,250	180K 	 51.3K 	 N/A
+	Santa Clara, CA 	 04/30/2022	IC2	ML / AI	0 yrs 	0 yrs	0	$195,000	155K 	 33.8K 	 6.3K
+	Santa Clara, CA 	 04/09/2022	IC2	ML / AI	1 yr 	1 yr	0	$185,000	140K 	 25K 	 20K
+	Santa Clara, CA 	 02/28/2022	IC1	ML / AI	2 yrs 	0 yrs	0	$158,250	135K 	 19.5K 	 3.8K
+	San Jose, CA 	 02/06/2022	IC2	ML / AI	0 yrs 	0 yrs	0	$191,000	155K 	 26K 	 10K
+	Santa Clara, CA 	 01/10/2022	IC2	ML / AI	0 yrs 	0 yrs	0	$201,000	155K 	 26K 	 20K
+	Santa Clara, CA 	 12/08/2021	IC2	ML / AI	0 yrs 	0 yrs	0	$199,000	145K 	 30K 	 24K
+	Santa Clara, CA 	 12/03/2021	IC3	ML / AI	0 yrs 	0 yrs	0	$283,000	180K 	 68K 	 35K
+	Santa Clara, CA 	 12/01/2021	IC1	ML / AI	0 yrs 	0 yrs	0	$164,250	138K 	 19.5K 	 6.8K
+Canopy Vehicle Se...	Buffalo, NY 	 12/31/2022	-	ML / AI	2 yrs 	0 yrs	+$10K	$143,000	130K 	 N/A 	 13K
+Lockheed Martin	Sunnyvale, CA 	 12/30/2022	E2	ML / AI	2 yrs 	2 yrs	0	$132,000	132K 	 N/A 	 N/A
+	Fort Worth, TX 	 12/27/2022	E1	ML / AI	0 yrs 	0 yrs	0	$89,020	84K 	 N/A 	 5K
+	Philadelphia, PA 	 09/16/2022	E2	ML / AI	2 yrs 	2 yrs	0	$119,000	119K 	 N/A 	 N/A
+	Philadelphia, PA 	 08/08/2022	E1	ML / AI	1 yr 	1 yr	0	$95,000	95K 	 N/A 	 N/A
+	Denver, CO 	 06/01/2022	E3	ML / AI	2 yrs 	1 yr	0	$124,925	120.1K 	 N/A 	 4.8K
+	Moorestown, NJ 	 03/31/2022	E2	ML / AI	0 yrs 	0 yrs	0	$106,750	100K 	 N/A 	 6.8K
+	Moorestown, NJ 	 01/16/2022	Associate (Entry	ML / AI	0 yrs 	0 yrs	0	$99,000	94K 	 N/A 	 5K
+Inceptio	Fremont, CA 	 12/29/2022	L4	ML / AI	2 yrs 	2 yrs	0	$140,000	140K 	 N/A 	 N/A
+MITRE	West McLean, VA 	 12/28/2022	Intermediate Software Engineer	ML / AI	1 yr 	0 yrs	0	$100,000	100K 	 N/A 	 N/A
+Greyscale	Fremont, CA 	 12/28/2022	L3	ML / AI	2 yrs 	0 yrs	0	$210,000	160K 	 50K 	 N/A
+Capital One	Cambridge, MA 	 12/27/2022	Senior Software Eng	ML / AI	1 yr 	1 yr	0	$166,800	157.8K 	 N/A 	 9K
+	Dallas, TX 	 08/29/2022	Associate Software Eng	ML / AI	0 yrs 	0 yrs	0	$125,500	115K 	 N/A 	 10.5K
+	West McLean, VA 	 08/05/2022	Associate Software Eng	ML / AI	1 yr 	0 yrs	0	$121,000	121K 	 N/A 	 N/A
+	West McLean, VA 	 05/31/2022	Software Eng	ML / AI	2 yrs 	0 yrs	+$12K	$162,125	149K 	 N/A 	 13.1K
+	West McLean, VA 	 04/17/2022	Software Eng	ML / AI	1 yr 	1 yr	0	$148,500	143K 	 N/A 	 5.5K
+	Boston, MA 	 02/28/2022	Software Eng	ML / AI	2 yrs 	0 yrs	0	$180,000	150K 	 3K 	 27K
+Visa	Palo Alto, CA 	 12/27/2022	Senior Software Engineer	ML / AI	1 yr 	1 yr	0	$164,000	131K 	 20K 	 13K
+	Palo Alto, CA 	 04/26/2022	Senior Software Engineer	ML / AI	2 yrs 	2 yrs	0	$133,300	119K 	 8.3K 	 6K
+Wells Fargo	Charlotte, NC 	 12/24/2022	L1	ML / AI	1 yr 	1 yr	0	$85,000	75K 	 N/A 	 10K
+BlackRock	New York, NY 	 12/21/2022	Analyst	ML / AI	2 yrs 	2 yrs	0	$130,000	120K 	 N/A 	 10K
+Deloitte	New York, NY 	 12/21/2022	L1	ML / AI	0 yrs 	0 yrs	0	$98,125	95K 	 N/A 	 3.1K
+	Boston, MA 	 12/20/2022	L1	ML / AI	0 yrs 	0 yrs	0	$100,125	97K 	 N/A 	 3.1K
+Apple	San Francisco, CA 	 12/21/2022	ICT4	ML / AI	2 yrs 	0 yrs	0	$300,000	250K 	 50K 	 N/A
+	Boston, MA 	 11/04/2022	ICT3	ML / AI	2 yrs 	0 yrs	0	$218,375	155K 	 50K 	 13.4K
+	San Francisco, CA 	 11/03/2022	ICT3	ML / AI	2 yrs 	2 yrs	0	$279,200	177K 	 77.2K 	 25K
+	Cupertino, CA 	 10/12/2022	ICT3	ML / AI	2 yrs 	2 yrs	0	$229,000	163K 	 55K 	 11K
+	Cupertino, CA 	 10/11/2022	ICT3	ML / AI	1 yr 	1 yr	0	$224,500	165K 	 57.5K 	 2K
+	Cupertino, CA 	 10/11/2022	ICT4	ML / AI	2 yrs 	2 yrs	0	$279,700	164K 	 100K 	 15.7K
+	Cupertino, CA 	 10/05/2022	ICT3	ML / AI	2 yrs 	2 yrs	0	$325,250	185K 	 112.5K 	 27.8K
+	San Francisco, CA 	 10/04/2022	ICT3	ML / AI	2 yrs 	2 yrs	0	$253,300	162K 	 80K 	 11.3K
+	Seattle, WA 	 10/03/2022	ICT3	ML / AI	2 yrs 	2 yrs	0	$303,000	158K 	 145K 	 N/A
+	Cupertino, CA 	 10/02/2022	ICT4	ML / AI	2 yrs 	2 yrs	0	$360,000	187K 	 148K 	 25K
+	Cupertino, CA 	 09/18/2022	ICT3	ML / AI	2 yrs 	2 yrs	0	$255,000	175K 	 80K 	 N/A
+	San Francisco, CA 	 09/16/2022	ICT3	ML / AI	1 yr 	1 yr	0	$255,000	175K 	 80K 	 N/A
+	Cupertino, CA 	 09/01/2022	ICT4	ML / AI	2 yrs 	0 yrs	0	$283,000	180K 	 75K 	 28K
+	Seattle, WA 	 08/31/2022	ICT3	ML / AI	0 yrs 	0 yrs	0	$207,125	145K 	 37.1K 	 25K
+	Seattle, WA 	 08/25/2022	ICT3	ML / AI	0 yrs 	0 yrs	0	$177,500	140K 	 37.5K 	 N/A
+	Cupertino, CA 	 08/23/2022	ICT3	ML / AI	2 yrs 	0 yrs	0	$300,000	175K 	 125K 	 N/A
+	Cupertino, CA 	 08/20/2022	ICT2	ML / AI	1 yr 	1 yr	0	$148,225	124.1K 	 24.2K 	 N/A
+	San Francisco, CA 	 08/10/2022	ICT4	ML / AI	2 yrs 	0 yrs	0	$497,500	200K 	 200K 	 97.5K
+	Cupertino, CA 	 08/05/2022	ICT3	ML / AI	1 yr 	1 yr	0	$250,000	175K 	 75K 	 N/A
+	Cupertino, CA 	 07/30/2022	ICT3	ML / AI	2 yrs 	2 yrs	0	$256,891	148.8K 	 88.1K 	 20K
+	San Francisco, CA 	 07/24/2022	ICT2	ML / AI	0 yrs 	0 yrs	0	$96,000	96K 	 N/A 	 N/A
+	Sunnyvale, CA 	 07/11/2022	ICT2	ML / AI	1 yr 	1 yr	0	$250,000	130K 	 120K 	 N/A
+	New York, NY 	 07/11/2022	ICT3	ML / AI	0 yrs 	0 yrs	0	$360,000	210K 	 150K 	 N/A
+	New York, NY 	 06/07/2022	ICT3	ML / AI	2 yrs 	1 yr	0	$303,000	173K 	 100K 	 30K
+	Cupertino, CA 	 05/01/2022	ICT3	ML / AI	0 yrs 	0 yrs	0	$277,500	165K 	 67.5K 	 45K
+	Sunnyvale, CA 	 05/01/2022	ICT3	ML / AI	0 yrs 	0 yrs	0	$272,750	179K 	 68.8K 	 25K
+	Cupertino, CA 	 04/27/2022	ICT4	ML / AI	2 yrs 	0 yrs	0	$382,500	200K 	 137.5K 	 45K
+	San Diego, CA 	 04/21/2022	ICT3	ML / AI	0 yrs 	0 yrs	0	$237,500	145K 	 62.5K 	 30K
+	Seattle, WA 	 02/28/2022	ICT2	ML / AI	0 yrs 	0 yrs	0	$229,125	140K 	 37.1K 	 52K
+	Austin, TX 	 02/02/2022	ICT2	ML / AI	1 yr 	0 yrs	0	$149,000	115K 	 24K 	 10K
+	Seattle, WA 	 01/31/2022	ICT3	ML / AI	1 yr 	0 yrs	0	$203,750	145K 	 37.5K 	 21.3K
+	Cupertino, CA 	 01/31/2022	ICT2	ML / AI	0 yrs 	0 yrs	0	$181,250	135K 	 37.5K 	 8.8K
+	Seattle, WA 	 01/26/2022	ICT3	ML / AI	2 yrs 	1 yr	0	$167,000	125K 	 32K 	 10K
+	Austin, TX 	 01/26/2022	ICT2	ML / AI	0 yrs 	0 yrs	0	$188,000	125K 	 38K 	 25K
+	Cupertino, CA 	 01/12/2022	ICT2	ML / AI	0 yrs 	0 yrs	0	$196,000	143K 	 38K 	 15K
+	Austin, TX 	 12/18/2021	ICT2	ML / AI	0 yrs 	0 yrs	0	$136,000	117K 	 19K 	 N/A
+	Seattle, WA 	 12/08/2021	ICT3	ML / AI	2 yrs 	0 yrs	0	$296,000	155K 	 125K 	 16K
+	Seattle, WA 	 12/01/2021	ICT3	ML / AI	0 yrs 	0 yrs	0	$217,875	150K 	 37.1K 	 30.8K
+C.H. Robinson	St. Louis, MO 	 12/20/2022	L3	ML / AI	1 yr 	1 yr	0	$115,000	115K 	 N/A 	 N/A
+Hive	San Francisco, CA 	 12/19/2022	L3	ML / AI	0 yrs 	0 yrs	0	$214,000	140K 	 60K 	 14K
+	San Francisco, CA 	 11/30/2022	L3	ML / AI	0 yrs 	0 yrs	0	$214,000	140K 	 60K 	 14K
+	San Francisco, CA 	 11/19/2022	L3	ML / AI	0 yrs 	0 yrs	0	$214,000	140K 	 60K 	 14K
+	San Francisco, CA 	 11/12/2022	L3	ML / AI	0 yrs 	0 yrs	0	$201,075	140K 	 45.8K 	 15.3K
+Pinterest	San Francisco, CA 	 12/18/2022	L4	ML / AI	2 yrs 	2 yrs	0	$250,000	180K 	 70K 	 N/A
+	Palo Alto, CA 	 11/27/2022	L4	ML / AI	0 yrs 	0 yrs	0	$325,000	200K 	 125K 	 N/A
+	San Francisco, CA 	 11/21/2022	L4	ML / AI	0 yrs 	0 yrs	0	$283,250	190K 	 73.3K 	 20K
+	San Francisco, CA 	 05/13/2022	L3	ML / AI	0 yrs 	0 yrs	0	$228,750	165K 	 50K 	 13.8K
+	Palo Alto, CA 	 02/28/2022	L3	ML / AI	1 yr 	0 yrs	0	$228,750	165K 	 50K 	 13.8K
+	San Francisco, CA 	 02/17/2022	L3	ML / AI	0 yrs 	0 yrs	0	$255,000	165K 	 35K 	 55K
+	Seattle, WA 	 01/21/2022	L3	ML / AI	0 yrs 	0 yrs	0	$275,000	165K 	 45K 	 65K
+	Palo Alto, CA 	 01/10/2022	L3	ML / AI	0 yrs 	0 yrs	0	$270,000	165K 	 50K 	 55K
+Striveworks	Austin, TX 	 12/17/2022	-	ML / AI	2 yrs 	0 yrs	0	$205,000	130K 	 55K 	 20K
+Tesla	Palo Alto, CA 	 12/16/2022	P2	ML / AI	2 yrs 	0 yrs	0	$405,000	180K 	 225K 	 N/A
+	Fremont, CA 	 11/23/2022	P2	ML / AI	0 yrs 	0 yrs	0	$181,750	160K 	 20K 	 1.8K
+	Palo Alto, CA 	 08/31/2022	P2	ML / AI	0 yrs 	0 yrs	0	$220,000	170K 	 50K 	 N/A
+	Palo Alto, CA 	 08/16/2022	P2	ML / AI	0 yrs 	0 yrs	0	$337,500	150K 	 187.5K 	 N/A
+	Palo Alto, CA 	 08/09/2022	P2	ML / AI	0 yrs 	0 yrs	0	$320,000	220K 	 100K 	 N/A
+	Palo Alto, CA 	 05/17/2022	P3	ML / AI	1 yr 	1 yr	0	$385,000	175K 	 210K 	 N/A
+Productiv	Seattle, WA 	 12/16/2022	L1	ML / AI	1 yr 	1 yr	0	$130,000	130K 	 N/A 	 N/A
+	Seattle, WA 	 11/23/2022	L1	ML / AI	1 yr 	1 yr	0	$130,000	130K 	 N/A 	 N/A
+Doma	San Francisco, CA 	 12/15/2022	L1	ML / AI	2 yrs 	2 yrs	0	$235,000	150K 	 70K 	 15K
+Intel	Santa Clara, CA 	 12/15/2022	Grade 5	ML / AI	2 yrs 	2 yrs	0	$214,000	134K 	 80K 	 N/A
+	Santa Clara, CA 	 11/08/2022	Grade 5	ML / AI	1 yr 	1 yr	0	$187,333	154K 	 33.3K 	 N/A
+	Hillsboro, OR 	 11/02/2022	Grade 7	ML / AI	1 yr 	1 yr	0	$246,132	177K 	 45K 	 24.2K
+	Dallas, TX 	 10/01/2022	Grade 8	ML / AI	2 yrs 	0 yrs	0	$332,500	230K 	 N/A 	 102.5K
+	Santa Clara, CA 	 08/10/2022	Grade 7	ML / AI	1 yr 	1 yr	0	$300,000	207K 	 68K 	 25K
+	Seattle, WA 	 08/10/2022	Grade 5	ML / AI	0 yrs 	0 yrs	0	$156,625	130K 	 20K 	 6.6K
+	Santa Clara, CA 	 07/01/2022	Grade 5	ML / AI	0 yrs 	0 yrs	0	$202,333	154K 	 33.3K 	 15K
+	Hillsboro, OR 	 07/01/2022	Grade 7	ML / AI	0 yrs 	0 yrs	0	$227,008	177K 	 23.3K 	 26.7K
+	Chandler, AZ 	 03/01/2022	Grade 5	ML / AI	0 yrs 	0 yrs	0	$194,167	125K 	 6.7K 	 62.5K
+	Hillsboro, OR 	 02/10/2022	Grade 5	ML / AI	0 yrs 	0 yrs	0	$156,000	126K 	 19K 	 11K
+	San Jose, CA 	 02/01/2022	Grade 5	ML / AI	0 yrs 	0 yrs	0	$149,837	109K 	 26.7K 	 14.2K
+	Austin, TX 	 12/11/2021	Grade 5	ML / AI	1 yr 	1 yr	0	$157,000	117K 	 20K 	 20K
+	Santa Clara, CA 	 12/01/2021	Grade 7	ML / AI	0 yrs 	0 yrs	0	$236,000	166K 	 50K 	 20K
+	Santa Clara, CA 	 11/09/2021	Grade 5	ML / AI	1 yr 	0 yrs	0	$220,000	136K 	 33K 	 51K
+USC	Los Angeles, CA 	 12/14/2022	L1	ML / AI	0 yrs 	0 yrs	0	$62,400	62.4K 	 N/A 	 N/A
+NavDri	Los Angeles, CA 	 12/14/2022	L3	ML / AI	1 yr 	0 yrs	0	$160,000	160K 	 N/A 	 N/A
+ByteDance	Seattle, WA 	 12/14/2022	2-1	ML / AI	1 yr 	0 yrs	0	$315,538	200K 	 59.3K 	 56.3K
+	Mountain View, CA 	 12/01/2022	2-1	ML / AI	0 yrs 	0 yrs	0	$306,250	210K 	 40K 	 56.3K
+	Mountain View, CA 	 11/29/2022	-	ML / AI	1 yr 	0 yrs	0	$185,000	130K 	 40K 	 15K
+	San Francisco, CA 	 11/15/2022	2-1	ML / AI	0 yrs 	0 yrs	0	$293,750	178K 	 67.5K 	 48.3K
+	Mountain View, CA 	 11/09/2022	1-2	ML / AI	0 yrs 	0 yrs	0	$226,250	140K 	 38.8K 	 47.5K
+	Los Angeles, CA 	 10/06/2022	2-1	ML / AI	0 yrs 	0 yrs	0	$450,000	250K 	 200K 	 N/A
+	Mountain View, CA 	 09/14/2022	1-2	ML / AI	1 yr 	0 yrs	0	$181,250	125K 	 25K 	 31.3K
+	Mountain View, CA 	 09/14/2022	1-2	ML / AI	2 yrs 	1 yr	0	$233,350	140K 	 58.4K 	 35K
+	San Francisco, CA 	 08/27/2022	1-2	ML / AI	1 yr 	1 yr	0	$180,000	130K 	 20K 	 30K
+	Mountain View, CA 	 06/12/2022	1-2	ML / AI	1 yr 	1 yr	0	$181,200	125K 	 25K 	 31.2K
+	San Francisco, CA 	 06/04/2022	1-2	ML / AI	0 yrs 	0 yrs	0	$212,500	128K 	 40K 	 44.5K
+	San Francisco, CA 	 03/17/2022	2-1	ML / AI	1 yr 	1 yr	0	$515,000	185K 	 330K 	 N/A
+	Mountain View, CA 	 02/11/2022	2	ML / AI	2 yrs 	2 yrs	0	$329,000	220K 	 54K 	 55K
+	Mountain View, CA 	 01/31/2022	2-1	ML / AI	0 yrs 	0 yrs	0	$337,500	200K 	 70K 	 67.5K
+	Mountain View, CA 	 01/31/2022	1-2	ML / AI	2 yrs 	0 yrs	0	$238,750	138K 	 41.3K 	 59.5K
+	Mountain View, CA 	 01/13/2022	2	ML / AI	0 yrs 	0 yrs	0	$307,000	210K 	 44K 	 53K
+	Mountain View, CA 	 01/07/2022	2	ML / AI	0 yrs 	0 yrs	0	$313,000	210K 	 50K 	 53K
+	Mountain View, CA 	 01/05/2022	1	ML / AI	2 yrs 	0 yrs	0	$200,000	140K 	 25K 	 35K
+	Mountain View, CA 	 12/13/2021	2-1	ML / AI	0 yrs 	0 yrs	0	$325,000	200K 	 75K 	 50K
+Radix Trading	Chicago, IL 	 12/13/2022	L3	ML / AI	0 yrs 	0 yrs	0	$600,000	150K 	 N/A 	 450K
+	Chicago, IL 	 11/29/2022	New Grad PhD	ML / AI	0 yrs 	0 yrs	0	$600,000	250K 	 N/A 	 350K
+Comcast	Denver, CO 	 12/13/2022	L2	ML / AI	2 yrs 	2 yrs	0	$131,500	130K 	 1.5K 	 N/A
+	Washington, DC 	 11/23/2021	Engineer 3	ML / AI	2 yrs 	1 yr	0	$200,000	165K 	 20K 	 15K
+Lawrence Berkeley...	Berkeley, CA 	 12/12/2022	Entry	ML / AI	2 yrs 	2 yrs	0	$41,600	41.6K 	 N/A 	 N/A
+Sortera Alloys	Dallas, TX 	 12/12/2022	L2	ML / AI	2 yrs 	2 yrs	0	$100,000	90K 	 10K 	 N/A
+Spotify	Boston, MA 	 12/09/2022	Engineer I	ML / AI	1 yr 	1 yr	0	$181,225	153.6K 	 27.6K 	 N/A
+	New York, NY 	 09/16/2022	Engineer II	ML / AI	0 yrs 	0 yrs	0	$227,500	180K 	 47.5K 	 N/A
+	New York, NY 	 03/03/2022	Senior Engineer	ML / AI	2 yrs 	0 yrs	0	$249,000	200K 	 49K 	 N/A
+Elbit Systems	Orlando, FL 	 12/08/2022	1	ML / AI	1 yr 	1 yr	0	$75,000	75K 	 N/A 	 N/A
+	Orlando, FL 	 11/10/2022	1	ML / AI	2 yrs 	1 yr	0	$75,000	75K 	 N/A 	 N/A
+	Orlando, FL 	 11/03/2022	L1	ML / AI	1 yr 	1 yr	0	$75,000	75K 	 N/A 	 N/A
+C3.ai	New York, NY 	 12/07/2022	L1	ML / AI	0 yrs 	0 yrs	0	$176,900	126K 	 32K 	 18.9K
+PlayStation	San Francisco, CA 	 12/07/2022	P3	ML / AI	2 yrs 	0 yrs	0	$227,250	170K 	 N/A 	 57.3K
+Neocova	New York, NY 	 12/07/2022	Senior	ML / AI	2 yrs 	2 yrs	0	$140,000	140K 	 N/A 	 N/A
+Siemens	Princeton, NJ 	 12/06/2022	T7	ML / AI	1 yr 	1 yr	0	$84,560	66.6K 	 N/A 	 18K
+	Berkeley, CA 	 12/30/2021	L2	ML / AI	2 yrs 	1 yr	0	$150,000	131K 	 N/A 	 19K
+Shure	Niles, IL 	 12/04/2022	L3	ML / AI	2 yrs 	2 yrs	0	$104,000	104K 	 N/A 	 N/A
+SambaNova Systems	Palo Alto, CA 	 12/04/2022	L3	ML / AI	0 yrs 	0 yrs	0	$170,000	130K 	 40K 	 N/A
+	Palo Alto, CA 	 12/15/2021	L4	ML / AI	2 yrs 	2 yrs	0	$140,000	140K 	 N/A 	 N/A
+ABC	New York, NY 	 12/03/2022	L3	ML / AI	0 yrs 	0 yrs	0	$105,000	100K 	 5K 	 N/A
+Samsung	San Diego, CA 	 12/03/2022	L4	ML / AI	0 yrs 	0 yrs	0	$187,750	160K 	 N/A 	 27.8K
+OpenAI	San Francisco, CA 	 11/30/2022	L4	ML / AI	2 yrs 	0 yrs	0	$620,000	245K 	 375K 	 N/A
+Twitter	New York, NY 	 11/30/2022	SWE II	ML / AI	2 yrs 	2 yrs	0	$455,500	162K 	 275K 	 18.5K
+	Los Angeles, CA 	 09/10/2022	SWE II	ML / AI	1 yr 	0 yrs	0	$112,500	100K 	 12.5K 	 N/A
+	San Francisco, CA 	 08/16/2022	Software Engineer (SWE)	ML / AI	2 yrs 	1 yr	0	$173,000	153K 	 20K 	 N/A
+	San Francisco, CA 	 05/01/2022	Software Engineer (SWE)	ML / AI	0 yrs 	0 yrs	0	$187,500	150K 	 37.5K 	 N/A
+	New York, NY 	 12/28/2021	SWE II	ML / AI	2 yrs 	0 yrs	0	$255,000	166K 	 72K 	 17K
+Primer	San Francisco, CA 	 11/28/2022	L3	ML / AI	0 yrs 	0 yrs	0	$200,000	150K 	 50K 	 N/A
+WPS Health Solutions	Austin, TX 	 11/21/2022	2	ML / AI	2 yrs 	1 yr	0	$115,000	115K 	 N/A 	 N/A
+DRAIVER	New York, NY 	 11/21/2022	L2	ML / AI	1 yr 	1 yr	0	$110,000	110K 	 N/A 	 N/A
+	New York, NY 	 05/10/2022	L3	ML / AI	1 yr 	0 yrs	0	$110,000	110K 	 0.3 	 N/A
+Verizon	Ashburn, VA 	 11/16/2022	MTS 1	ML / AI	0 yrs 	0 yrs	0	$104,750	104K 	 750 	 N/A
+WeRide.ai	San Jose, CA 	 11/16/2022	L3	ML / AI	0 yrs 	0 yrs	0	$172,600	135K 	 37.6K 	 N/A
+	San Jose, CA 	 01/24/2022	L2	ML / AI	1 yr 	1 yr	0	$180,000	130K 	 30K 	 20K
+Reynolds and Reyn...	Houston, TX 	 11/16/2022	-	ML / AI	0 yrs 	0 yrs	0	$60,000	60K 	 N/A 	 N/A
+Bloomberg	New York, NY 	 11/15/2022	Software Engineer	ML / AI	0 yrs 	0 yrs	0	$159,250	155K 	 4.3K 	 N/A
+	New York, NY 	 09/13/2022	Entry	ML / AI	0 yrs 	0 yrs	0	$170,000	150K 	 N/A 	 20K
+	New York, NY 	 08/31/2022	Software Engineer	ML / AI	0 yrs 	0 yrs	0	$177,500	155K 	 N/A 	 22.5K
+	New York, NY 	 08/19/2022	Software Engineer	ML / AI	1 yr 	0 yrs	+$15K	$191,250	160K 	 N/A 	 31.3K
+	New York, NY 	 04/01/2022	Senior Software Engineer	ML / AI	0 yrs 	0 yrs	0	$328,750	255K 	 N/A 	 73.8K
+	New York, NY 	 03/31/2022	Software Engineer	ML / AI	0 yrs 	0 yrs	0	$180,000	153K 	 N/A 	 27K
+	New York, NY 	 02/16/2022	Senior Software Engineer	ML / AI	2 yrs 	2 yrs	0	$233,000	193K 	 N/A 	 40K
+	New York, NY 	 02/15/2022	Senior Software Engineer	ML / AI	2 yrs 	2 yrs	0	$184,000	162K 	 N/A 	 22K
+	New York, NY 	 02/04/2022	Software Engineer	ML / AI	0 yrs 	0 yrs	0	$165,000	145K 	 N/A 	 20K
+	New York, NY 	 12/14/2021	Senior Software Engineer	ML / AI	2 yrs 	1 yr	0	$300,000	240K 	 N/A 	 60K
+	New York, NY 	 12/14/2021	Senior Software Engineer	ML / AI	2 yrs 	0 yrs	0	$315,000	250K 	 N/A 	 65K
+DiDi	Mountain View, CA 	 11/14/2022	D5	ML / AI	1 yr 	1 yr	0	$190,000	130K 	 40K 	 20K
+	Mountain View, CA 	 08/08/2022	hidden	ML / AI	0-1 yrs 	0-1 yrs	0	$190,000	130K 	 40K 	 20K
+	Mountain View, CA 	 07/01/2022	D6	ML / AI	0-1 yrs 	0-1 yrs	0	$267,500	185K 	 47.5K 	 35K
+	Mountain View, CA 	 01/01/2022	D5	ML / AI	0 yrs 	0 yrs	0	$195,000	130K 	 40K 	 25K
+Qualcomm	San Diego, CA 	 11/14/2022	Engineer	ML / AI	2 yrs 	0 yrs	0	$216,587	158.1K 	 33.3K 	 25.1K
+	San Diego, CA 	 06/11/2022	Engineer	ML / AI	0 yrs 	0 yrs	+$10K	$158,000	110K 	 25K 	 23K
+	San Diego, CA 	 05/08/2022	Senior Engineer	ML / AI	2 yrs 	2 yrs	0	$241,000	176K 	 40K 	 25K
+	San Diego, CA 	 05/01/2022	Engineer	ML / AI	2 yrs 	0 yrs	+$20K	$224,333	160K 	 38.3K 	 26K
+	San Diego, CA 	 04/12/2022	Engineer	ML / AI	1 yr 	1 yr	0	$207,000	147K 	 50K 	 10K
+	Austin, TX 	 04/05/2022	Engineer	ML / AI	2 yrs 	2 yrs	0	$165,757	145.8K 	 20K 	 N/A
+	San Diego, CA 	 02/28/2022	Engineer	ML / AI	0 yrs 	0 yrs	0	$150,275	103.5K 	 25K 	 21.8K
+	San Diego, CA 	 02/28/2022	Senior Engineer	ML / AI	0 yrs 	0 yrs	0	$180,000	130K 	 33.3K 	 16.7K
+	San Diego, CA 	 02/28/2022	Engineer	ML / AI	0 yrs 	0 yrs	0	$155,000	105K 	 25K 	 25K
+	San Diego, CA 	 01/31/2022	Engineer	ML / AI	0 yrs 	0 yrs	0	$156,000	106K 	 25K 	 25K
+	San Diego, CA 	 11/16/2021	Engineer	ML / AI	1 yr 	0 yrs	0	$148,000	110K 	 25K 	 13K
+Caerpillar	San Francisco, CA 	 11/13/2022	-	ML / AI	1 yr 	1 yr	0	$125,000	100K 	 25K 	 N/A
+Magma Capital	Chicago, IL 	 11/12/2022	L1	ML / AI	0 yrs 	0 yrs	0	$180,000	180K 	 N/A 	 N/A
+Twitch	San Francisco, CA 	 11/11/2022	L4	ML / AI	1 yr 	0 yrs	0	$199,075	148.4K 	 27.1K 	 23.6K
+	San Francisco, CA 	 10/31/2022	L4	ML / AI	1 yr 	0 yrs	0	$205,742	148.4K 	 32K 	 25.3K
+	San Francisco, CA 	 04/12/2022	L4	ML / AI	0 yrs 	0 yrs	0	$190,000	142K 	 3K 	 45K
+	San Francisco, CA 	 11/16/2021	L4	ML / AI	1 yr 	0 yrs	0	$185,000	138K 	 5K 	 42K
+CACI International	West McLean, VA 	 11/11/2022	L3	ML / AI	1 yr 	0 yrs	0	$70,000	70K 	 N/A 	 N/A
+Expedia	Seattle, WA 	 11/08/2022	K	ML / AI	2 yrs 	2 yrs	0	$137,000	132K 	 5K 	 N/A
+	Austin, TX 	 09/01/2022	K	ML / AI	0 yrs 	0 yrs	0	$135,000	120K 	 10K 	 5K
+VideoAmp	Philadelphia, PA 	 11/07/2022	Entry	ML / AI	0 yrs 	0 yrs	0	$130,000	125K 	 N/A 	 5K
+FlightAware	Houston, TX 	 11/05/2022	-	ML / AI	2 yrs 	0 yrs	0	$105,000	100K 	 N/A 	 5K
+TuSimple	San Diego, CA 	 11/03/2022	L3	ML / AI	1 yr 	1 yr	0	$168,000	153K 	 15K 	 N/A
+LinkedIn	Sunnyvale, CA 	 11/03/2022	Software Engineer	ML / AI	1 yr 	0 yrs	0	$276,250	175K 	 70K 	 31.3K
+	Sunnyvale, CA 	 10/02/2022	Software Engineer	ML / AI	0 yrs 	0 yrs	0	$262,750	140K 	 100K 	 22.8K
+	Sunnyvale, CA 	 09/15/2022	Senior	ML / AI	2 yrs 	2 yrs	0	$306,000	160K 	 130K 	 16K
+	Sunnyvale, CA 	 08/31/2022	Software Engineer	ML / AI	0 yrs 	0 yrs	0	$178,563	164.5K 	 14.1K 	 N/A
+	San Francisco, CA 	 08/05/2022	Software Engineer	ML / AI	1 yr 	1 yr	0	$250,000	165K 	 70K 	 15K
+	Sunnyvale, CA 	 07/18/2022	Software Engineer	ML / AI	2 yrs 	0 yrs	0	$256,000	160K 	 68.8K 	 27.3K
+	Sunnyvale, CA 	 06/24/2022	Software Engineer	ML / AI	0 yrs 	0 yrs	0	$273,875	170K 	 75K 	 28.9K
+	Sunnyvale, CA 	 06/01/2022	Software Engineer	ML / AI	2 yrs 	0 yrs	0	$250,000	155K 	 60K 	 35K
+	Sunnyvale, CA 	 01/31/2022	Software Engineer	ML / AI	2 yrs 	0 yrs	0	$250,000	165K 	 68K 	 17K
+	San Francisco, CA 	 01/31/2022	Software Engineer	ML / AI	1 yr 	0 yrs	0	$150,000	150K 	 N/A 	 N/A
+	Sunnyvale, CA 	 01/23/2022	Senior Software Engineer	ML / AI	2 yrs 	0 yrs	0	$360,000	200K 	 130K 	 30K
+	Sunnyvale, CA 	 01/22/2022	Software Engineer	ML / AI	0 yrs 	0 yrs	0	$250,000	170K 	 63K 	 17K
+	Sunnyvale, CA 	 01/18/2022	Software Engineer	ML / AI	0 yrs 	0 yrs	0	$222,000	150K 	 57K 	 15K
+	Sunnyvale, CA 	 11/24/2021	Software Engineer	ML / AI	1 yr 	0 yrs	+$6K	$251,000	165K 	 69K 	 17K
+Rebellion Defense	Washington, DC 	 11/02/2022	L5	ML / AI	1 yr 	1 yr	0	$254,000	210K 	 44K 	 N/A
+Tencent	Los Angeles, CA 	 11/01/2022	T9	ML / AI	2 yrs 	0 yrs	0	$300,000	170K 	 130K 	 N/A
+	Seattle, WA 	 05/01/2022	T9	ML / AI	1 yr 	0 yrs	0	$208,917	165K 	 16.7K 	 27.3K
+	Los Angeles, CA 	 02/28/2022	T8	ML / AI	2 yrs 	1 yr	0	$184,000	167K 	 15K 	 2K
+	Palo Alto, CA 	 02/21/2022	T6	ML / AI	0 yrs 	0 yrs	0	$175,000	120K 	 35K 	 20K
+	Palo Alto, CA 	 02/03/2022	T9	ML / AI	2 yrs 	1 yr	0	$170,000	160K 	 10K 	 N/A
+Poly	Atlanta, GA 	 11/01/2022	L3	ML / AI	2 yrs 	2 yrs	0	$143,000	133K 	 N/A 	 10K
+Salesforce	San Francisco, CA 	 11/01/2022	Associate MTS	ML / AI	0 yrs 	0 yrs	0	$189,288	141K 	 25K 	 23.3K
+	San Francisco, CA 	 10/10/2022	MTS	ML / AI	2 yrs 	0 yrs	0	$188,500	161K 	 27.5K 	 N/A
+	San Francisco, CA 	 10/01/2022	Associate MTS	ML / AI	0 yrs 	0 yrs	0	$196,625	147K 	 25K 	 24.6K
+	New York, NY 	 09/06/2022	Associate MTS	ML / AI	0 yrs 	0 yrs	0	$120,000	120K 	 N/A 	 N/A
+	San Francisco, CA 	 05/31/2022	L5	ML / AI	2 yrs 	2 yrs	0	$375,000	185K 	 110K 	 80K
+Waymo	Mountain View, CA 	 11/01/2022	L3	ML / AI	0 yrs 	0 yrs	0	$219,250	145K 	 47.5K 	 26.8K
+	San Francisco, CA 	 10/05/2022	L4	ML / AI	0 yrs 	0 yrs	0	$221,250	175K 	 13.8K 	 32.5K
+	Mountain View, CA 	 07/27/2022	L4	ML / AI	0 yrs 	0 yrs	0	$301,250	175K 	 87.5K 	 38.8K
+	San Francisco, CA 	 03/26/2022	L4	ML / AI	1 yr 	1 yr	0	$338,500	183K 	 125K 	 30.5K
+	Mountain View, CA 	 11/20/2021	New Grad	ML / AI	0 yrs 	0 yrs	0	$230,000	145K 	 54K 	 31K
+Epsilon	Denver, CO 	 11/01/2022	L3	ML / AI	1 yr 	1 yr	0	$83,000	83K 	 N/A 	 N/A
+Palantir	Washington, DC 	 11/01/2022	Software Engineer	ML / AI	2 yrs 	0 yrs	0	$235,000	175K 	 55K 	 5K
+Microsoft	Redmond, WA 	 10/31/2022	60	ML / AI	0 yrs 	0 yrs	0	$195,650	129K 	 37.5K 	 29.2K
+	Palo Alto, CA 	 10/01/2022	60	ML / AI	2 yrs 	2 yrs	0	$190,000	140K 	 30K 	 20K
+	Berkeley, CA 	 09/17/2022	SDE II	ML / AI	1 yr 	1 yr	0	$195,500	148K 	 34.5K 	 13K
+	Redmond, WA 	 09/13/2022	SDE II	ML / AI	1 yr 	1 yr	0	$210,200	136.7K 	 32.5K 	 41K
+	Seattle, WA 	 09/05/2022	60	ML / AI	1 yr 	1 yr	0	$169,000	133K 	 20K 	 16K
+	Seattle, WA 	 09/01/2022	SDE	ML / AI	0 yrs 	0 yrs	0	$157,150	118.4K 	 30K 	 8.8K
+	Mountain View, CA 	 08/22/2022	SDE	ML / AI	0 yrs 	0 yrs	0	$157,900	127.9K 	 30K 	 N/A
+	Redmond, WA 	 08/19/2022	60	ML / AI	1 yr 	1 yr	0	$187,800	135K 	 34.8K 	 18K
+	Redmond, WA 	 08/09/2022	SDE	ML / AI	0 yrs 	0 yrs	0	$190,830	118.4K 	 40K 	 32.4K
+	Redmond, WA 	 08/04/2022	SDE	ML / AI	0 yrs 	0 yrs	0	$166,000	118.5K 	 30K 	 17.5K
+	Bellevue, WA 	 07/29/2022	60	ML / AI	0 yrs 	0 yrs	0	$166,250	125K 	 37.5K 	 3.8K
+	New York, NY 	 07/15/2022	SDE	ML / AI	2 yrs 	1 yr	0	$130,000	100K 	 30K 	 N/A
+	New York, NY 	 07/14/2022	62	ML / AI	2 yrs 	2 yrs	0	$288,000	186K 	 51K 	 51K
+	Seattle, WA 	 06/01/2022	SDE	ML / AI	0 yrs 	0 yrs	0	$165,000	112K 	 28K 	 25K
+	San Francisco, CA 	 05/19/2022	SDE	ML / AI	2 yrs 	0 yrs	0	$170,000	150K 	 20K 	 N/A
+	Dallas, TX 	 05/01/2022	SDE	ML / AI	0 yrs 	0 yrs	0	$161,100	103K 	 30K 	 28.1K
+	San Diego, CA 	 04/01/2022	62	ML / AI	2 yrs 	0 yrs	0	$160,000	145K 	 15K 	 N/A
+	San Francisco, CA 	 03/23/2022	SDE II	ML / AI	2 yrs 	1 yr	0	$304,000	145K 	 130K 	 29K
+	Redmond, WA 	 02/28/2022	SDE	ML / AI	0 yrs 	0 yrs	0	$166,000	113K 	 30K 	 23K
+	Seattle, WA 	 02/28/2022	SDE II	ML / AI	2 yrs 	0 yrs	0	$165,000	140K 	 20K 	 5K
+	Washington, DC 	 02/25/2022	60	ML / AI	2 yrs 	1 yr	0	$180,000	125K 	 20K 	 35K
+	Seattle, WA 	 02/16/2022	SDE II	ML / AI	2 yrs 	2 yrs	0	$181,000	131K 	 35K 	 15K
+	Atlanta, GA 	 02/07/2022	SDE	ML / AI	2 yrs 	0 yrs	0	$136,000	101K 	 30K 	 5K
+	Bellevue, WA 	 02/05/2022	SDE	ML / AI	0 yrs 	0 yrs	0	$165,000	121K 	 19K 	 25K
+	Redmond, WA 	 02/04/2022	60	ML / AI	2 yrs 	2 yrs	0	$160,000	120K 	 30K 	 10K
+	Atlanta, GA 	 12/23/2021	SDE	ML / AI	0 yrs 	0 yrs	0	$120,000	95K 	 N/A 	 25K
+	Redmond, WA 	 12/17/2021	SDE	ML / AI	0 yrs 	0 yrs	0	$203,000	113K 	 70K 	 20K
+	Bellevue, WA 	 12/13/2021	60	ML / AI	2 yrs 	2 yrs	0	$210,000	121K 	 80K 	 9K
+	Cambridge, MA 	 12/06/2021	SDE II	ML / AI	2 yrs 	2 yrs	0	$184,000	131K 	 37K 	 16K
+	Seattle, WA 	 11/30/2021	SDE	ML / AI	0 yrs 	0 yrs	0	$154,000	113K 	 30K 	 11K
+	Sunnyvale, CA 	 11/10/2021	SDE	ML / AI	0 yrs 	0 yrs	0	$197,000	134K 	 50K 	 13K
+	Bellevue, WA 	 11/09/2021	60	ML / AI	2 yrs 	2 yrs	0	$205,000	125K 	 60K 	 20K
+0	0		0	0			0	0			
+	0		0	0			0	0			
+MIT Lincoln Labor...	Lexington, MA 	 10/14/2022	L1	ML / AI	0 yrs 	0 yrs	0	$47,840	47.8K 	 N/A 	 N/A
+	Lexington, MA 	 11/30/2021	L2	ML / AI	0 yrs 	0 yrs	0	$125,000	120K 	 N/A 	 5K
+Dell Technologies	Austin, TX 	 10/13/2022	Software Engineer I	ML / AI	1 yr 	1 yr	0	$80,000	75K 	 N/A 	 5K
+Abnormal Security	New York, NY 	 10/12/2022	Junior	ML / AI	1 yr 	1 yr	0	$150,000	150K 	 N/A 	 N/A
+Producitv	Seattle, WA 	 10/11/2022	L1	ML / AI	1 yr 	1 yr	0	$140,375	130K 	 10.4K 	 N/A
+General Atomics	San Diego, CA 	 10/11/2022	2	ML / AI	2 yrs 	2 yrs	0	$126,000	126K 	 N/A 	 N/A
+Cerebras Systems	Sunnyvale, CA 	 10/07/2022	L4	ML / AI	2 yrs 	1 yr	0	$190,000	190K 	 N/A 	 N/A
+	Seattle, WA 	 04/23/2022	Engineer	ML / AI	1 yr 	1 yr	0	$150,000	150K 	 N/A 	 N/A
+AMD	Austin, TX 	 10/05/2022	Senior Software Engineer	ML / AI	2 yrs 	1 yr	0	$155,000	120K 	 20K 	 15K
+	Austin, TX 	 02/28/2022	MTS	ML / AI	2 yrs 	0 yrs	0	$165,000	135K 	 10K 	 20K
+Octo Consulting	Reston, VA 	 10/05/2022	Associate	ML / AI	2 yrs 	1 yr	0	$115,000	115K 	 N/A 	 N/A
+Arrowstreet Capital	Boston, MA 	 10/05/2022	New Grad	ML / AI	0 yrs 	0 yrs	0	$580,000	425K 	 N/A 	 155K
+	Boston, MA 	 10/01/2022	New Grad	ML / AI	0 yrs 	0 yrs	0	$475,000	400K 	 N/A 	 75K
+Googl	New York, NY 	 10/04/2022	L3	ML / AI	0 yrs 	0 yrs	0	$135,000	110K 	 5K 	 20K
+Sitecore	San Francisco, CA 	 10/04/2022	MLE	ML / AI	2 yrs 	1 yr	0	$147,000	129K 	 N/A 	 18K
+Intuit	New York, NY 	 10/04/2022	Staff Software Engineer	ML / AI	2 yrs 	0 yrs	0	$172,500	155K 	 17.5K 	 N/A
+	Mountain View, CA 	 09/08/2022	Software Engineer 1	ML / AI	1 yr 	0 yrs	0	$141,000	125K 	 16K 	 N/A
+Brookhaven Nation...	New York, NY 	 10/04/2022	-	ML / AI	2 yrs 	2 yrs	0	$108,000	108K 	 N/A 	 N/A
+NLP Logix	Jacksonville, FL 	 10/03/2022	L1	ML / AI	1 yr 	1 yr	0	$55,000	55K 	 N/A 	 N/A
+Verily	Mountain View, CA 	 10/01/2022	L3	ML / AI	0 yrs 	0 yrs	0	$128,960	129K 	 N/A 	 N/A
+	Mountain View, CA 	 11/19/2021	L3	ML / AI	0 yrs 	0 yrs	0	$185,000	130K 	 35K 	 20K
+Cruise	San Francisco, CA 	 10/01/2022	L4	ML / AI	1 yr 	1 yr	0	$415,000	225K 	 125K 	 65K
+	San Francisco, CA 	 09/11/2022	L3	ML / AI	0 yrs 	0 yrs	0	$261,250	150K 	 75K 	 36.3K
+	San Francisco, CA 	 08/15/2022	L4	ML / AI	1 yr 	1 yr	0	$412,000	225K 	 125K 	 62K
+	San Francisco, CA 	 08/09/2022	L3	ML / AI	1 yr 	1 yr	0	$246,000	155K 	 60K 	 31K
+	San Francisco, CA 	 05/06/2022	L3	ML / AI	2 yrs 	2 yrs	0	$149,000	149K 	 N/A 	 N/A
+	San Francisco, CA 	 05/01/2022	L5	ML / AI	2 yrs 	0 yrs	0	$563,000	235K 	 237.5K 	 90.5K
+	San Francisco, CA 	 12/02/2021	L3	ML / AI	0 yrs 	0 yrs	0	$218,000	156K 	 31K 	 31K
+Two Sigma	New York, NY 	 09/30/2022	L1	ML / AI	0 yrs 	0 yrs	0	$406,250	200K 	 N/A 	 206.3K
+GSK	Philadelphia, PA 	 09/16/2022	L2	ML / AI	2 yrs 	2 yrs	0	$158,000	146K 	 N/A 	 12K
+Adobe	Seattle, WA 	 09/16/2022	Software Engineer 1	ML / AI	2 yrs 	0 yrs	0	$158,375	126K 	 28.1K 	 4.3K
+	San Jose, CA 	 09/04/2022	Software Engineer 1	ML / AI	0 yrs 	0 yrs	0	$249,575	157.5K 	 76.3K 	 15.8K
+	San Jose, CA 	 04/08/2022	Software Engineer 2	ML / AI	0 yrs 	0 yrs	0	$251,825	145K 	 76.3K 	 30.5K
+	San Jose, CA 	 01/11/2022	P3	ML / AI	0 yrs 	0 yrs	0	$296,000	160K 	 104K 	 32K
+	San Jose, CA 	 12/24/2021	Software Engineer 3	ML / AI	0 yrs 	0 yrs	0	$320,000	180K 	 110K 	 30K
+Noblis	Reston, VA 	 09/15/2022	L1	ML / AI	0 yrs 	0 yrs	0	$106,250	100K 	 N/A 	 6.3K
+	Reston, VA 	 08/31/2022	Entry Level	ML / AI	1 yr 	1 yr	0	$80,000	80K 	 N/A 	 N/A
+	Reston, VA 	 04/06/2022	1	ML / AI	2 yrs 	2 yrs	0	$95,000	90K 	 N/A 	 5K
+Oracle	Redwood City, CA 	 09/14/2022	IC-2	ML / AI	0 yrs 	0 yrs	0	$228,000	135K 	 53K 	 40K
+	Seattle, WA 	 03/31/2022	IC-2	ML / AI	0 yrs 	0 yrs	0	$197,500	135K 	 62.5K 	 N/A
+	Austin, TX 	 01/03/2022	IC-1	ML / AI	2 yrs 	2 yrs	0	$226,000	137K 	 57K 	 32K
+	Austin, TX 	 11/18/2021	IC-2	ML / AI	0 yrs 	0 yrs	0	$218,000	122K 	 66K 	 30K
+Citadel	Chicago, IL 	 09/13/2022	-	ML / AI	0 yrs 	0 yrs	0	$537,500	250K 	 N/A 	 287.5K
+	New York, NY 	 09/11/2022	-	ML / AI	0 yrs 	0 yrs	0	$525,000	475K 	 N/A 	 50K
+	Chicago, IL 	 09/01/2022	-	ML / AI	0 yrs 	0 yrs	0	$625,000	300K 	 N/A 	 325K
+	New York, NY 	 04/30/2022	-	ML / AI	1 yr 	0 yrs	0	$346,250	225K 	 N/A 	 121.3K
+	Chicago, IL 	 04/01/2022	-	ML / AI	1 yr 	0 yrs	0	$800,000	300K 	 N/A 	 500K
+Boomi	King of Prussia, PA 	 09/13/2022	L2	ML / AI	1 yr 	1 yr	0	$109,148	104K 	 N/A 	 5.2K
+MathWorks	Natick, MA 	 09/13/2022	Software Engineer 3	ML / AI	0 yrs 	0 yrs	0	$124,000	124K 	 N/A 	 N/A
+Cigna	Minneapolis, MN 	 09/12/2022	L3	ML / AI	2 yrs 	0 yrs	0	$81,000	78K 	 N/A 	 3K
+Uber	Seattle, WA 	 09/09/2022	Software Engineer I	ML / AI	0 yrs 	0 yrs	0	$173,750	130K 	 25.3K 	 18.5K
+	Sunnyvale, CA 	 06/07/2022	Software Engineer I	ML / AI	1 yr 	1 yr	0	$173,500	133K 	 27.5K 	 13K
+	San Francisco, CA 	 06/04/2022	Software Engineer II	ML / AI	2 yrs 	1 yr	0	$260,000	157K 	 80K 	 23K
+	Seattle, WA 	 02/28/2022	Software Engineer II	ML / AI	0 yrs 	0 yrs	0	$264,250	160K 	 75K 	 29.3K
+	San Francisco, CA 	 02/06/2022	Software Engineer II	ML / AI	2 yrs 	0 yrs	0	$286,000	165K 	 94K 	 27K
+Shipt	San Francisco, CA 	 09/09/2022	L2	ML / AI	2 yrs 	1 yr	0	$145,000	145K 	 N/A 	 N/A
+	Manchester, NH 	 11/15/2021	L4	ML / AI	2 yrs 	0 yrs	0	$160,000	150K 	 N/A 	 10K
+Snap	Seattle, WA 	 09/05/2022	L3	ML / AI	1 yr 	0 yrs	0	$178,000	125K 	 53K 	 N/A
+	San Francisco, CA 	 05/25/2022	L3	ML / AI	1 yr 	1 yr	0	$178,438	125K 	 53.4K 	 N/A
+	Los Angeles, CA 	 02/18/2022	L4	ML / AI	0 yrs 	0 yrs	0	$397,000	165K 	 215K 	 17K
+Sezzle	Orlando, FL 	 09/04/2022	L1	ML / AI	0 yrs 	0 yrs	0	$101,500	85K 	 3.8K 	 12.8K
+General Motors	Austin, TX 	 09/01/2022	Software Engineer 1	ML / AI	1 yr 	0 yrs	0	$80,000	80K 	 N/A 	 N/A
+	Chandler, AZ 	 11/11/2021	Software Engineer 1	ML / AI	1 yr 	0 yrs	0	$65,000	65K 	 N/A 	 N/A
+Zoox	Foster City, CA 	 08/31/2022	L1	ML / AI	0 yrs 	0 yrs	0	$169,083	146K 	 8.3K 	 14.8K
+	Foster City, CA 	 11/16/2021	L1	ML / AI	0 yrs 	0 yrs	0	$163,000	145K 	 18K 	 N/A
+Motional	Santa Monica, CA 	 08/31/2022	P2	ML / AI	1 yr 	0 yrs	0	$282,150	190K 	 62.5K 	 29.7K
+	Santa Monica, CA 	 05/31/2022	Engineer	ML / AI	1 yr 	0 yrs	0	$255,400	170K 	 40K 	 45.4K
+	Santa Monica, CA 	 12/20/2021	New Grad	ML / AI	0 yrs 	0 yrs	0	$234,000	170K 	 19K 	 45K
+	Pittsburgh, PA 	 11/22/2021	L1	ML / AI	0 yrs 	0 yrs	0	$174,000	140K 	 19K 	 15K
+Hudson River Trading	New York, NY 	 08/31/2022	New Grad	ML / AI	0 yrs 	0 yrs	0	$441,250	200K 	 N/A 	 241.3K
+	New York, NY 	 08/02/2022	L3	ML / AI	0 yrs 	0 yrs	0	$425,000	200K 	 N/A 	 225K
+	New York, NY 	 07/14/2022	Algorithm Developer	ML / AI	2 yrs 	2 yrs	0	$2,700,000	200K 	 N/A 	 2.5M
+	New York, NY 	 07/03/2022	Algorithm Developer	ML / AI	2 yrs 	2 yrs	0	$2,200,000	250K 	 N/A 	 1.95M
+	New York, NY 	 12/27/2021	L1	ML / AI	0 yrs 	0 yrs	0	$420,000	200K 	 N/A 	 220K
+	New York, NY 	 11/23/2021	L1	ML / AI	0 yrs 	0 yrs	0	$555,000	290K 	 N/A 	 265K
+Belvedere Trading	Chicago, IL 	 08/31/2022	L1	ML / AI	1 yr 	1 yr	0	$150,600	145.6K 	 N/A 	 5K
+American Express	Fort Lauderdale, FL 	 08/31/2022	Software Engineer II	ML / AI	0 yrs 	0 yrs	0	$105,000	105K 	 N/A 	 N/A
+	Sunrise, FL 	 08/22/2022	L3	ML / AI	0 yrs 	0 yrs	0	$83,200	80K 	 N/A 	 3.2K
+Etsy	New York, NY 	 08/31/2022	IC1	ML / AI	1 yr 	0 yrs	0	$177,700	132K 	 32.5K 	 13.2K
+CarMax	Richmond, VA 	 08/31/2022	L1	ML / AI	2 yrs 	2 yrs	0	$91,000	81K 	 5K 	 5K
+Vanguard	Malvern, PA 	 08/31/2022	L3	ML / AI	0 yrs 	0 yrs	0	$135,000	135K 	 N/A 	 N/A
+AT&T	Chicago, IL 	 08/31/2022	L1, Step 1	ML / AI	1 yr 	0 yrs	0	$117,390	106.6K 	 N/A 	 10.8K
+Nuro	Mountain View, CA 	 08/31/2022	L4	ML / AI	1 yr 	1 yr	0	$317,250	166K 	 151.3K 	 N/A
+	Mountain View, CA 	 08/20/2022	L4	ML / AI	2 yrs 	2 yrs	0	$291,000	168K 	 103K 	 20K
+	Mountain View, CA 	 01/04/2022	L4	ML / AI	2 yrs 	2 yrs	0	$185,000	165K 	 N/A 	 20K
+samsung research	San Francisco, CA 	 08/30/2022	-	ML / AI	1 yr 	0 yrs	0	$159,000	140K 	 N/A 	 19K
+Aurora	San Francisco, CA 	 08/30/2022	P4	ML / AI	0 yrs 	0 yrs	0	$200,000	125K 	 75K 	 N/A
+	Mountain View, CA 	 07/31/2022	P5	ML / AI	2 yrs 	0 yrs	0	$330,000	280K 	 50K 	 N/A
+Stottler Henke	San Mateo, CA 	 08/29/2022	L1	ML / AI	1 yr 	1 yr	0	$165,000	155K 	 N/A 	 10K
+Northern Trust	Chicago, IL 	 08/27/2022	Entry Level	ML / AI	0 yrs 	0 yrs	0	$94,050	90K 	 N/A 	 4.1K
+Roblox	San Mateo, CA 	 08/27/2022	IC1	ML / AI	0 yrs 	0 yrs	0	$230,500	152.5K 	 72.5K 	 5.5K
+	San Mateo, CA 	 08/18/2022	IC1	ML / AI	0 yrs 	0 yrs	0	$213,000	146K 	 67K 	 N/A
+	Los Angeles, CA 	 08/17/2022	IC1	ML / AI	1 yr 	1 yr	0	$210,000	130K 	 50K 	 30K
+	San Mateo, CA 	 12/07/2021	IC2	ML / AI	2 yrs 	0 yrs	0	$260,000	160K 	 100K 	 N/A
+Drift	Boston, MA 	 08/26/2022	Junior Engineer	ML / AI	2 yrs 	2 yrs	0	$180,000	150K 	 30K 	 N/A
+RadNet	Cambridge, MA 	 08/24/2022	Mid Level Engineer	ML / AI	2 yrs 	2 yrs	0	$120,000	115K 	 5K 	 N/A
+Dragonfruit AI	Los Angeles, CA 	 08/24/2022	-	ML / AI	0 yrs 	0 yrs	0	$225,000	100K 	 125K 	 N/A
+PayPal	San Jose, CA 	 08/22/2022	T23	ML / AI	2 yrs 	2 yrs	0	$146,400	124K 	 10K 	 12.4K
+Covariant	New York, NY 	 08/21/2022	-	ML / AI	2 yrs 	1 yr	0	$75,000	70K 	 5K 	 N/A
+CVS Health	New York, NY 	 08/21/2022	408	ML / AI	2 yrs 	0 yrs	0	$120,000	110K 	 N/A 	 10K
+Ally	Charlotte, NC 	 08/20/2022	Senior Engineer	ML / AI	1 yr 	1 yr	0	$123,000	115K 	 N/A 	 8K
+	Charlotte, NC 	 07/27/2022	L3	ML / AI	0 yrs 	0 yrs	0	$89,000	80K 	 5K 	 4K
+	Charlotte, NC 	 07/01/2022	L3	ML / AI	0 yrs 	0 yrs	0	$90,000	80K 	 5K 	 5K
+Indeed	San Francisco, CA 	 08/19/2022	L1	ML / AI	1 yr 	0 yrs	0	$185,575	149K 	 16.7K 	 19.9K
+	Austin, TX 	 08/15/2022	L2	ML / AI	0 yrs 	0 yrs	0	$176,250	145K 	 31.3K 	 N/A
+	Seattle, WA 	 02/28/2022	L2	ML / AI	2 yrs 	0 yrs	0	$210,000	162K 	 32K 	 16K
+Morgan Stanley	Alpharetta, GA 	 08/18/2022	L1	ML / AI	0 yrs 	0 yrs	0	$92,500	92.5K 	 N/A 	 N/A
+Iterable	San Francisco, CA 	 08/18/2022	L3	ML / AI	2 yrs 	2 yrs	0	$168,000	168K 	 N/A 	 N/A
+Accenture	Charlotte, NC 	 08/18/2022	L11	ML / AI	1 yr 	1 yr	0	$85,000	77K 	 N/A 	 8K
+	Florham Park, NJ 	 08/15/2022	11	ML / AI	0 yrs 	0 yrs	0	$101,400	92.4K 	 N/A 	 9K
+	Chicago, IL 	 07/31/2022	Software Engineer Analyst	ML / AI	0 yrs 	0 yrs	0	$62,400	62.4K 	 N/A 	 N/A
+Quantiphi	Marlborough, MA 	 08/17/2022	-	ML / AI	2 yrs 	1 yr	0	$98,000	93K 	 N/A 	 5K
+InterSystems	Boston, MA 	 08/16/2022	1	ML / AI	2 yrs 	0 yrs	0	$145,000	115K 	 N/A 	 30K
+Magic Leap	Sunnyvale, CA 	 08/16/2022	L3	ML / AI	2 yrs 	2 yrs	0	$150,000	150K 	 N/A 	 N/A
+Dexterity	Redwood City, CA 	 08/14/2022	L1	ML / AI	2 yrs 	1 yr	0	$110,000	110K 	 N/A 	 N/A
+Roche	South San Francisco, CA 	 08/12/2022	L1	ML / AI	2 yrs 	2 yrs	0	$130,000	120K 	 10K 	 N/A
+Acrisure	Austin, TX 	 08/12/2022	L2	ML / AI	2 yrs 	2 yrs	0	$136,250	113K 	 6.3K 	 17K
+Aptiv	Agoura Hills, CA 	 08/11/2022	L3	ML / AI	2 yrs 	0 yrs	0	$125,000	125K 	 N/A 	 N/A
+Parallel Wireless	Nashua, NH 	 08/09/2022	Entry Level	ML / AI	1 yr 	1 yr	0	$107,400	94K 	 4K 	 9.4K
+Northrop Grumman	Ogden, UT 	 08/07/2022	T1	ML / AI	1 yr 	1 yr	0	$94,000	93K 	 N/A 	 1K
+White Clay	Louisville, KY 	 08/04/2022	Junior	ML / AI	1 yr 	1 yr	0	$90,000	70K 	 N/A 	 20K
+IMC	Chicago, IL 	 08/04/2022	L3	ML / AI	1 yr 	0 yrs	0	$163,500	150K 	 1K 	 12.5K
+Robinhood	San Francisco, CA 	 08/02/2022	L2	ML / AI	2 yrs 	1 yr	0	$314,500	195K 	 100K 	 19.5K
+Navy	Washington, DC 	 07/31/2022	L3	ML / AI	2 yrs 	2 yrs	0	$87,000	87K 	 N/A 	 N/A
+Logos Technologies	Raleigh, NC 	 07/29/2022	L1	ML / AI	0 yrs 	0 yrs	0	$90,000	90K 	 N/A 	 N/A
+Tata Consultancy ...	Boston, MA 	 07/29/2022	L1	ML / AI	1 yr 	1 yr	0	$75,000	71.5K 	 N/A 	 3.5K
+	Dearborn, MI 	 07/17/2022	Entry Level	ML / AI	2 yrs 	1 yr	0	$72,300	72.3K 	 N/A 	 N/A
+	Las Vegas, NV 	 02/08/2022	Y1C	ML / AI	0 yrs 	0 yrs	0	$74,000	72K 	 N/A 	 2K
+SailPoint	Austin, TX 	 07/29/2022	L3	ML / AI	2 yrs 	2 yrs	0	$133,000	120K 	 5K 	 8K
+JD.com	San Francisco, CA 	 07/27/2022	4	ML / AI	2 yrs 	2 yrs	0	$230,000	200K 	 30K 	 N/A
+Fidelity Investments	Boston, MA 	 07/27/2022	L4	ML / AI	2 yrs 	0 yrs	0	$109,250	90K 	 N/A 	 19.3K
+Take-Two Interact...	San Diego, CA 	 07/27/2022	L1	ML / AI	1 yr 	1 yr	0	$88,000	80K 	 N/A 	 8K
+Fda	White Oak, MD 	 07/27/2022	-	ML / AI	0 yrs 	0 yrs	0	$74,400	74.4K 	 N/A 	 N/A
+Balbix	San Jose, CA 	 07/20/2022	-	ML / AI	2 yrs 	2 yrs	0	$145,000	137K 	 N/A 	 8K
+Bosch Global	Sunnyvale, CA 	 07/20/2022	L4	ML / AI	1 yr 	0 yrs	0	$235,000	175K 	 45K 	 15K
+VMware	Palo Alto, CA 	 07/19/2022	MTS 3	ML / AI	2 yrs 	2 yrs	0	$190,000	160K 	 30K 	 N/A
+	Palo Alto, CA 	 03/31/2022	MTS 2	ML / AI	1 yr 	0 yrs	0	$195,185	138K 	 31.3K 	 25.9K
+Dorabot	Atlanta, GA 	 07/18/2022	L2	ML / AI	1 yr 	1 yr	0	$90,000	90K 	 N/A 	 N/A
+DocuSign	Seattle, WA 	 07/18/2022	P3	ML / AI	2 yrs 	0 yrs	0	$317,250	195K 	 100K 	 22.3K
+Syntiant	Irvine, CA 	 07/17/2022	-	ML / AI	1 yr 	1 yr	0	$250,000	240K 	 10K 	 N/A
+Olive	San Francisco, CA 	 07/15/2022	L4	ML / AI	1 yr 	1 yr	0	$94,972	84.3K 	 N/A 	 10.7K
+Kindred AI	San Francisco, CA 	 07/13/2022	L1	ML / AI	1 yr 	1 yr	0	$145,000	145K 	 N/A 	 N/A
+Intuitive	Sunnyvale, CA 	 07/09/2022	L3	ML / AI	1 yr 	1 yr	0	$252,000	156K 	 75K 	 21K
+U.S. Bank	Cupertino, CA 	 07/07/2022	L3	ML / AI	1 yr 	1 yr	0	$148,000	138K 	 N/A 	 10K
+Embark Trucks	San Francisco, CA 	 07/01/2022	L3	ML / AI	2 yrs 	0 yrs	0	$277,750	185K 	 62.5K 	 30.3K
+	San Francisco, CA 	 02/24/2022	-	ML / AI	2 yrs 	0 yrs	0	$220,000	150K 	 50K 	 20K
+	San Francisco, CA 	 02/10/2022	-	ML / AI	2 yrs 	0 yrs	0	$220,000	160K 	 40K 	 20K
+Boeing	Los Angeles, CA 	 06/30/2022	L1	ML / AI	0 yrs 	0 yrs	0	$105,000	105K 	 N/A 	 N/A
+novo nordisk	Princeton, NJ 	 06/30/2022	L1	ML / AI	1 yr 	0 yrs	0	$95,000	95K 	 N/A 	 N/A
+Neato Robotics	San Jose, CA 	 06/29/2022	L4	ML / AI	1 yr 	1 yr	0	$140,000	125K 	 N/A 	 15K
+IBM	Raleigh, NC 	 06/26/2022	Associate Engineer	ML / AI	1 yr 	1 yr	0	$95,000	95K 	 N/A 	 N/A
+	Yorktown Heights, NY 	 01/30/2022	Staff Engineer	ML / AI	1 yr 	1 yr	+$7K	$140,000	140K 	 N/A 	 N/A
+	New York, NY 	 12/06/2021	Associate Engineer	ML / AI	1 yr 	0 yrs	0	$120,000	115K 	 N/A 	 5K
+	Yorktown Heights, NY 	 12/01/2021	Associate Engineer	ML / AI	0 yrs 	0 yrs	0	$150,000	150K 	 N/A 	 N/A
+Metronet	Kansas City, MO 	 06/25/2022	L2	ML / AI	1 yr 	0 yrs	0	$86,500	79.5K 	 7K 	 N/A
+Eikon Therapeutics	Hayward, CA 	 06/25/2022	L5	ML / AI	2 yrs 	0 yrs	0	$244,350	180K 	 42.6K 	 21.8K
+Netflix	Boston, MA 	 06/23/2022	L3	ML / AI	1 yr 	0 yrs	0	$180,000	180K 	 N/A 	 N/A
+hireEZ	Mountain View, CA 	 06/22/2022	-	ML / AI	2 yrs 	2 yrs	0	$157,200	150K 	 7.2K 	 N/A
+Autodesk	Portland, OR 	 06/22/2022	Software Engineer 2	ML / AI	0 yrs 	0 yrs	0	$133,000	110K 	 15K 	 8K
+Trinnex	Philadelphia, PA 	 06/17/2022	2	ML / AI	2 yrs 	2 yrs	0	$77,190	77.2K 	 N/A 	 N/A
+Applied Physics Lab	Laurel, MD 	 06/16/2022	1	ML / AI	2 yrs 	2 yrs	0	$110,000	110K 	 N/A 	 N/A
+Woven Planet Group	Palo Alto, CA 	 06/13/2022	L4	ML / AI	1 yr 	1 yr	0	$330,000	180K 	 N/A 	 150K
+	Palo Alto, CA 	 04/27/2022	T4	ML / AI	2 yrs 	2 yrs	0	$247,400	184K 	 N/A 	 63.4K
+	Palo Alto, CA 	 01/13/2022	T4	ML / AI	2 yrs 	2 yrs	0	$258,000	148K 	 95K 	 15K
+Booz Allen Hamilton	Annapolis, MD 	 06/01/2022	Engineer	ML / AI	1 yr 	0 yrs	0	$101,250	100K 	 N/A 	 1.3K
+	Arlington, VA 	 03/31/2022	L1	ML / AI	0 yrs 	0 yrs	0	$82,000	82K 	 N/A 	 N/A
+Sandia National Labs	Albuquerque, NM 	 06/01/2022	Member	ML / AI	2 yrs 	2 yrs	0	$119,000	119K 	 N/A 	 N/A
+Opendoor	New York, NY 	 05/31/2022	L3	ML / AI	2 yrs 	0 yrs	0	$350,000	190K 	 150K 	 10K
+LivePerson	Seattle, WA 	 05/25/2022	L1	ML / AI	2 yrs 	1 yr	0	$145,000	120K 	 25K 	 N/A
+Johns Hopkins Uni...	Laurel, MD 	 05/13/2022	L1	ML / AI	0 yrs 	0 yrs	+$10K	$98,250	97K 	 N/A 	 1.3K
+Chevron	Chicago, IL 	 05/07/2022	3	ML / AI	2 yrs 	2 yrs	0	$120,000	120K 	 N/A 	 N/A
+The Aerospace Cor...	El Segundo, CA 	 05/01/2022	Associate	ML / AI	0 yrs 	0 yrs	+$4K	$92,000	92K 	 N/A 	 N/A
+	El Segundo, CA 	 02/13/2022	L1	ML / AI	1 yr 	1 yr	0	$110,000	110K 	 N/A 	 N/A
+OpenText	San Diego, CA 	 04/25/2022	L3	ML / AI	2 yrs 	2 yrs	0	$105,000	105K 	 N/A 	 N/A
+Global Relay	New York, NY 	 04/25/2022	3	ML / AI	1 yr 	0 yrs	0	$272,604	253.1K 	 19.5K 	 N/A
+Vimeo	New York, NY 	 04/23/2022	L3	ML / AI	1 yr 	1 yr	0	$180,000	120K 	 50K 	 10K
+Reddit	New York, NY 	 04/17/2022	IC3	ML / AI	2 yrs 	1 yr	0	$233,333	175K 	 58.3K 	 N/A
+Ambarella	Santa Clara, CA 	 04/12/2022	Senior	ML / AI	2 yrs 	2 yrs	0	$260,000	170K 	 90K 	 N/A
+Michaels	Dallas, TX 	 04/11/2022	3	ML / AI	2 yrs 	2 yrs	0	$105,000	105K 	 N/A 	 N/A
+Argo AI	San Francisco, CA 	 04/05/2022	L4	ML / AI	2 yrs 	0 yrs	0	$323,250	180K 	 110K 	 33.3K
+Asurion	Nashville, TN 	 04/04/2022	Software Engineer 2	ML / AI	2 yrs 	0 yrs	0	$135,500	117.5K 	 N/A 	 18K
+NCR	Atlanta, GA 	 04/02/2022	Grade 10	ML / AI	2 yrs 	2 yrs	0	$105,500	105K 	 N/A 	 500
+ETS AI Labs	Irvine, CA 	 04/01/2022	L3	ML / AI	1 yr 	0 yrs	0	$132,000	132K 	 N/A 	 N/A
+Square	Austin, TX 	 04/01/2022	Level 4	ML / AI	2 yrs 	0 yrs	0	$211,250	140K 	 71.3K 	 N/A
+AeroVironment	Simi Valley, CA 	 03/31/2022	L1	ML / AI	0 yrs 	0 yrs	0	$54,080	54.1K 	 N/A 	 N/A
+Megaport	Indianapolis, IN 	 03/31/2022	-	ML / AI	2 yrs 	0 yrs	0	$157,500	150K 	 N/A 	 7.5K
+Anduril Industries	Costa Mesa, CA 	 03/22/2022	L4	ML / AI	1 yr 	1 yr	0	$276,000	160K 	 116K 	 N/A
+	Irvine, CA 	 02/26/2022	L3	ML / AI	1 yr 	1 yr	0	$120,000	120K 	 N/A 	 N/A
+	Irvine, CA 	 01/08/2022	New Grad	ML / AI	0 yrs 	0 yrs	0	$180,000	150K 	 30K 	 N/A
+CoverMyMeds	Columbus, OH 	 03/21/2022	P3	ML / AI	2 yrs 	1 yr	0	$148,500	135K 	 N/A 	 13.5K
+Anyscale	San Francisco, CA 	 03/10/2022	L3	ML / AI	0 yrs 	0 yrs	0	$235,000	145K 	 60K 	 30K
+	San Francisco, CA 	 03/01/2022	L4	ML / AI	0 yrs 	0 yrs	0	$206,800	150K 	 56.8K 	 N/A
+Amperity	Seattle, WA 	 03/01/2022	L1	ML / AI	0 yrs 	0 yrs	0	$130,000	115K 	 15K 	 N/A
+Optum	San Francisco, CA 	 03/01/2022	29	ML / AI	0 yrs 	0 yrs	0	$107,500	105K 	 2.5K 	 N/A
+Walmart	Sunnyvale, CA 	 03/01/2022	L3	ML / AI	1 yr 	0 yrs	0	$161,250	150K 	 11.3K 	 N/A
+Epic Systems	Madison, WI 	 03/01/2022	Software Developer	ML / AI	0 yrs 	0 yrs	+$5K	$111,250	105K 	 N/A 	 6.3K
+	Madison, WI 	 02/20/2022	Software Developer	ML / AI	1 yr 	1 yr	0	$155,000	128K 	 12K 	 15K
+DoorDash	San Francisco, CA 	 03/01/2022	E4	ML / AI	2 yrs 	0 yrs	0	$365,000	200K 	 165K 	 N/A
+Duolingo	Pittsburgh, PA 	 02/28/2022	L3	ML / AI	0 yrs 	0 yrs	0	$185,000	140K 	 40K 	 5K
+Deutsche Bank	Cary, NC 	 02/28/2022	Analyst	ML / AI	0 yrs 	0 yrs	0	$71,255	70K 	 N/A 	 1.3K
+Lacework	San Jose, CA 	 02/28/2022	L3	ML / AI	1 yr 	0 yrs	0	$200,000	150K 	 50K 	 N/A
+Hyundai Motor Group	Boston, MA 	 02/28/2022	P3	ML / AI	1 yr 	1 yr	0	$128,000	108K 	 N/A 	 20K
+Relativity	Chicago, IL 	 02/28/2022	L1	ML / AI	2 yrs 	1 yr	0	$105,000	95K 	 N/A 	 10K
+H&R Block	Kansas City, MO 	 02/24/2022	L3	ML / AI	0 yrs 	0 yrs	0	$73,000	70K 	 N/A 	 3K
+Coinbase	San Francisco, CA 	 02/22/2022	IC4	ML / AI	2 yrs 	0 yrs	0	$248,000	165K 	 75K 	 8K
+Ancestry	San Francisco, CA 	 02/22/2022	New Grad	ML / AI	0 yrs 	0 yrs	0	$184,000	145K 	 26K 	 13K
+Sleep Number	San Jose, CA 	 02/21/2022	L3	ML / AI	1 yr 	1 yr	0	$170,000	135K 	 15K 	 20K
+Clarifai	New York, NY 	 02/20/2022	L1	ML / AI	0 yrs 	0 yrs	0	$175,000	135K 	 40K 	 N/A
+Principal Financi...	Des Moines, IA 	 02/20/2022	II	ML / AI	2 yrs 	1 yr	0	$84,000	84K 	 N/A 	 N/A
+DEKA	Manchester, NH 	 02/16/2022	Junior Engineer	ML / AI	1 yr 	1 yr	0	$82,000	80K 	 N/A 	 2K
+Rivian	Palo Alto, CA 	 02/16/2022	RIV-4	ML / AI	2 yrs 	0 yrs	0	$284,000	175K 	 75K 	 34K
+SAS Software	Cary, NC 	 02/14/2022	L4	ML / AI	2 yrs 	2 yrs	0	$124,000	120K 	 N/A 	 4K
+N/A	Pittsburgh, PA 	 02/11/2022	L1	ML / AI	2 yrs 	2 yrs	0	$85,000	65K 	 20K 	 N/A
+A Place For Mom	Atlanta, GA 	 02/04/2022	L1	ML / AI	2 yrs 	1 yr	0	$143,000	130K 	 N/A 	 13K
+Snap Finance	Salt Lake City, UT 	 02/02/2022	Entry Level	ML / AI	0 yrs 	0 yrs	0	$160,000	160K 	 N/A 	 N/A
+Raven Industries	Sioux Falls, SD 	 02/02/2022	L1	ML / AI	2 yrs 	1 yr	0	$107,000	105K 	 N/A 	 2K
+	Arizona City, AZ 	 01/29/2022	L1	ML / AI	2 yrs 	0 yrs	0	$117,000	115K 	 N/A 	 2K
+Varian Medical Sy...	Palo Alto, CA 	 02/01/2022	L3	ML / AI	1 yr 	1 yr	0	$168,000	160K 	 N/A 	 8K
+Zoom	Los Angeles, CA 	 01/31/2022	ZP5	ML / AI	2 yrs 	0 yrs	0	$388,000	238K 	 150K 	 N/A
+	New York, NY 	 11/17/2021	ZP3	ML / AI	2 yrs 	0 yrs	0	$224,000	158K 	 53K 	 13K
+Workday	Atlanta, GA 	 01/31/2022	P2	ML / AI	0 yrs 	0 yrs	0	$163,100	146K 	 N/A 	 17.1K
+Nylas	San Francisco, CA 	 01/31/2022	P5	ML / AI	1 yr 	0 yrs	0	$178,750	160K 	 18.8K 	 N/A
+Vicarious	Union City, CA 	 01/30/2022	P2	ML / AI	0 yrs 	0 yrs	0	$155,000	155K 	 N/A 	 N/A
+May Mobility	Ann Arbor, MI 	 01/28/2022	IC-1	ML / AI	1 yr 	1 yr	0	$110,000	110K 	 N/A 	 N/A
+NXP Semiconductors	Austin, TX 	 01/27/2022	G2	ML / AI	1 yr 	1 yr	0	$104,000	99K 	 N/A 	 5K
+Snorkel AI	Palo Alto, CA 	 01/27/2022	L1	ML / AI	1 yr 	1 yr	0	$215,000	160K 	 12K 	 43K
+Zillow	Seattle, WA 	 01/26/2022	P2	ML / AI	0 yrs 	0 yrs	0	$174,000	125K 	 29K 	 20K
+	Seattle, WA 	 01/13/2022	P3	ML / AI	2 yrs 	2 yrs	0	$190,000	150K 	 25K 	 15K
+Nike	Portland, OR 	 01/19/2022	L2	ML / AI	2 yrs 	2 yrs	0	$170,000	147K 	 N/A 	 23K
+Eightfold	Santa Clara, CA 	 01/19/2022	Entry Level	ML / AI	0 yrs 	0 yrs	0	$210,000	145K 	 50K 	 15K
+Quora	San Francisco, CA 	 01/18/2022	L3	ML / AI	0 yrs 	0 yrs	0	$220,000	145K 	 35K 	 40K
+	Seattle, WA 	 11/14/2021	L3	ML / AI	0 yrs 	0 yrs	0	$158,000	145K 	 N/A 	 13K
+XPENG Motors 小鹏汽车	Sunnyvale, CA 	 01/14/2022	L3	ML / AI	1 yr 	0 yrs	0	$172,000	156K 	 N/A 	 16K
+Barclays	Whippany, NJ 	 01/11/2022	BA4	ML / AI	2 yrs 	2 yrs	0	$125,000	113K 	 N/A 	 12K
+Cadence Design Sy...	Austin, TX 	 01/08/2022	T3	ML / AI	2 yrs 	2 yrs	0	$175,000	145K 	 10K 	 20K
+Lyft	Palo Alto, CA 	 01/08/2022	T5	ML / AI	2 yrs 	0 yrs	0	$420,000	185K 	 200K 	 35K
+Domino Data Lab	San Francisco, CA 	 01/07/2022	1	ML / AI	1 yr 	0 yrs	0	$173,000	150K 	 20K 	 3K
+Nordstrom	Seattle, WA 	 01/03/2022	E1	ML / AI	1 yr 	1 yr	0	$140,000	120K 	 N/A 	 20K
+Mythical Games	Seattle, WA 	 01/01/2022	1	ML / AI	2 yrs 	0 yrs	0	$172,750	150K 	 4K 	 18.8K
+MOLOCO	San Francisco, CA 	 12/31/2021	L3	ML / AI	0 yrs 	0 yrs	0	$195,000	150K 	 45K 	 N/A
+Atlassian	Mountain View, CA 	 12/23/2021	P4	ML / AI	2 yrs 	1 yr	0	$211,000	160K 	 35K 	 16K
+BCG gamma	Seattle, WA 	 12/14/2021	L3	ML / AI	2 yrs 	0 yrs	0	$180,000	135K 	 30K 	 15K
+Qualtrics	Seattle, WA 	 12/13/2021	L3	ML / AI	1 yr 	1 yr	0	$142,000	111K 	 25K 	 6K
+Second Spectrum	Los Angeles, CA 	 12/08/2021	L2	ML / AI	2 yrs 	2 yrs	0	$125,000	125K 	 N/A 	 N/A
+Experian	Scottsdale, AZ 	 12/07/2021	Junior	ML / AI	1 yr 	1 yr	0	$88,000	80K 	 N/A 	 8K
+Shield AI	Arlington, VA 	 12/06/2021	2	ML / AI	2 yrs 	2 yrs	0	$96,000	93K 	 N/A 	 3K
+	Alexandria, VA 	 12/06/2021	L3	ML / AI	2 yrs 	2 yrs	0	$108,000	90K 	 13K 	 5K
+Jane Street	New York, NY 	 12/01/2021	hidden	ML / AI	2-4 yrs 	2-4 yrs	0	$400,000	200K 	 N/A 	 200K
+Tiger Analytics	Orlando, FL 	 11/30/2021	L1	ML / AI	2 yrs 	0 yrs	0	$115,000	105K 	 N/A 	 10K
+USAA	Phoenix, AZ 	 11/28/2021	3	ML / AI	0 yrs 	0 yrs	0	$97,000	83K 	 N/A 	 14K
+Cisco	San Jose, CA 	 11/24/2021	Software Engineer IV	ML / AI	2 yrs 	0 yrs	0	$246,000	199K 	 18K 	 29K
+Walmart Global Tech	Hoboken, NJ 	 11/23/2021	Software Engineer 3	ML / AI	1 yr 	0 yrs	0	$193,000	145K 	 25K 	 23K
+AppLovin	Palo Alto, CA 	 11/22/2021	L4	ML / AI	2 yrs 	0 yrs	0	$280,000	205K 	 70K 	 5K
+Chewy	Fort Lauderdale, FL 	 11/19/2021	C05	ML / AI	1 yr 	0 yrs	0	$122,000	105K 	 10K 	 7K
+SparkCognition	Austin, TX 	 11/18/2021	2	ML / AI	0 yrs 	0 yrs	0	$105,000	105K 	 N/A 	 N/A
+Coupang	Mountain View, CA 	 11/14/2021	L3	ML / AI	0 yrs 	0 yrs	0	$205,000	146K 	 30K 	 29K
+Klaviyo	Boston, MA 	 11/11/2021	New Grad	ML / AI	0 yrs 	0 yrs	0	$170,000	130K 	 35K 	 5K
+WeWork	San Francisco, CA 	 11/10/2021	L4	ML / AI	2 yrs 	2 yrs	0	$240,000	160K 	 70K 	 10K
+Applied Materials	Santa Clara, CA 	 11/10/2021	Software Engineer I	ML / AI	1 yr 	1 yr	0	$130,000	110K 	 10K 	 10K

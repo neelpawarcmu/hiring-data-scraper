@@ -57,21 +57,21 @@ class Processor(DataProcessor):
         self.df.drop(self.df.columns[self.df.columns.str.match("Unnamed")], axis=1, inplace=True)
         # drop nan rows
         self.df.dropna(axis=0, inplace=True)
-        # remove blacklisted companies 
+        # remove blacklisted company rows
         self.df.drop(self.df[self.df[ref_col].isin(companiesToExclude)].index, inplace=True)
+        # reindex df in proper order
+        self.df.reset_index(drop=True, inplace=True)
 
-    def processDf(self, group_col='EMPLOYER', order_col='BASE SALARY'):
+    def processDf(self):
         '''
-        filter out and sort results
+        format and clean results
         '''
         # change dtypes from str
         self.changeDfDtypes()
 
-        # clean df nans and blacklisted companies
+        # clean df and resolve formatting issues
         self.cleanDf(ref_col='EMPLOYER')
 
-        # group employers
-        self.groupRows(grouping_type=grouping_type, group_col=group_col, order_col=order_col)
 
 
 if __name__ == "__main__":
@@ -80,6 +80,9 @@ if __name__ == "__main__":
 
     procsr = Processor(scraper.df)
     procsr.processDf()
+
+    # group employers
+    procsr.groupRows(grouping_type=grouping_type, group_col='EMPLOYER')
 
     procsr.pushDfToSheets(
         spreadsheet_key = '1KlgBLVdq0ZcpM5jol6sCQBR6dM1Nh0ZB23rYfJzkcdM',

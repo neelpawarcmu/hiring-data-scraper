@@ -16,4 +16,4 @@ companiesToExclude = [
     "DOORDASH INC",
 ]
 
-grouping_type = 'repeat'
+grouping_type = 'multiindex'
